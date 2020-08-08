@@ -1,0 +1,1027 @@
+place_id,location,accesslvl,rules
+1,Not Specified,0,Unknown
+2,Longfellow Av bet. E 173 St and E 174 St,0,Adults Allowed
+3,E 146 St bet. Walton Av and Grand Concourse,0,Unknown
+4,Not Specified,0,Unknown
+5,"80th St, Juniper Blvd S, 77th Place, Juniper Blvd S, 78th St",0,Unknown
+6,"FDR Dr., E. 95 St. To E. 97 St.",0,Adults Allowed
+7,Not Specified,0,Unknown
+8,West Of Hell Gate Bridge,4,Unknown
+9,"Fulton St., Truxton St., bet. Eastern Pkwy. and Van Sinderen Ave.",0,Adults Allowed
+10,Macombs Rd bet. W 176 St and W 175 St,4,Adults Allowed
+11,Bath Ave. between 24 Ave. and Bay 37 St.,0,Adults Allowed
+12,E. 105 St. To E. 106 St. bet. Lexington Ave. and 3 Ave.,3,Adults Allowed
+13,Bay Pkwy & Cropsey Avenue,4,Unknown
+14,Northern Blvd. bet. 93 St. and 94 St.,4,Adults Allowed
+15,"Merriam & Ogden Aves, W 168 St, University",4,Adults not allowed in some locations
+16,"Watkins St., Mother Gaston Blvd., Livonia Ave., Riverdale Ave.",2,Adults Allowed
+17,N/B Bruckner Blvd bet. Colgate Ave. and Close Ave.,2,Adults Allowed
+18,Beach Channel Dr. bet. Beach 104 St. and Seaside Ave.,4,Adults Allowed
+19,Throop Ave. between Myrtle Ave. and Park Ave.,4,Unknown
+20,Stuyvesant Ave. and Fulton St.,2,Adults not allowed in some locations
+21,N Conduit Ave. and 149 Ave.bet. Whitelaw St. and Lafayette St.,4,Adults Allowed
+22,W. 45 St. bet. 9 Ave. and 10 Ave.,3,Adults Allowed
+23,Morton Pl & University Ave,2,Adults Allowed
+24,Marcus Garvey Blvd. bet. Monore St. and Madison St.,4,Adults Allowed
+25,McLaughlin Ave. bet. Sutro St. and Francis Lewis Blvd.,4,Adults not allowed in some locations
+26,Classon Ave. bet. Fulton St. and Lefferts Pl.,4,Adults Allowed
+27,34 Ave. bet. 96 St. and Junction Blvd.,4,Adults Allowed
+28,"Crotona Ave, Crotona Pk N",4,Adults not allowed in some locations
+29,Elton St. bet. New Lots Ave. and Hegeman Ave.,0,Adults Allowed
+30,Not Specified,0,Unknown
+31,E. 71 St. between Ave. N and Ave. T,4,Adults Allowed
+32,"E. 12 St., E. 11 St. bet. 1 Ave. and Ave. A",0,Unknown
+33,W 142 St & Riverside Dr,4,Unknown
+34,E 141 St to E 140 St bet. Willis Av and Alexander Av,4,Adults Allowed
+35,On Path Between Passarelle Building And Fountain Of Planets (in Zone 14),3,Unknown
+36,101 Ave. bet. 92 St. and 83 St.,4,Adults Allowed
+37,67 Ave. bet. 230 St. and 233 St.,0,Adults Allowed
+38,"King, Richards & Dwight Sts",4,Adults not allowed in some locations
+39,Spofford Av bet. Faile St and Hunts Point Av,4,Adults Allowed
+40,160 Ave. bet. 88 St. and 89 St.,0,Adults Allowed
+41,"Audubon Ave., W. 169 St. and W. 170 St.",4,Adults Allowed
+42,Argyle Rd. and Cortelyou Rd.,2,Adults not allowed in some locations
+43,DeKalb Ave & Washington Pk,2,Unknown
+44,Allerton Ave. bet. Throop Ave. and Bouck Ave.,4,Adults Allowed
+45,"W. 17 St., 8 Ave. To 9 Ave.",4,Adults Allowed
+46,"Drumgoole Rd. W., Grantwood Ave., Carlton Ave., Rathbun Ave.",0,Adults Allowed
+47,Jerome Park Resevoir and Sedgwick Av bet. W,0,Adults Allowed
+48,"Schmidts La., Manor Rd. and Laguardia Ave.",3,Adults Allowed
+49,S/O Ave U & E 38 St,4,Unknown
+50,Cross Bay Blvd. bet. E 9 Rd. and E 10 Rd.,4,Adults not allowed in some locations
+51,84 St & Central Park West,4,Unknown
+52,Not Specified,0,Unknown
+53,Ave. V between Nostrand Ave. and Batchelder St.,4,Adults Allowed
+54,Shorefront Parkway And Beach 74 St,4,Unknown
+55,Tinton Av bet. E 166 St and E 165 St,4,Adults Allowed
+56,"Lydig Ave, Bronx Pk E",4,Adults Allowed
+57,"Ramona Ave, Lenevar Ave",0,Adults not allowed in some locations
+58,Rockaway Ave. bet. Blake Ave. and Dumont Ave.,4,Adults Allowed
+59,"Vernon Blvd, Main Ave",4,Adults Allowed
+60,East 9 St & Ave A,3,Adults not allowed in some locations
+61,164 St & Lithonia,4,Unknown
+62,Lewis St. bet. Delancey St. and Broome St.,2,Adults Allowed
+63,"Targee St, Stanwich St. Rome Ave.",4,Unknown
+64,Not Specified,0,Unknown
+65,"Strong St, Reservoir Ave",2,Adults not allowed in some locations
+66,"W. 155 St., 8 Ave. To Harlem River Drive",4,Adults Allowed
+67,Falmouth St & Oriental Ave,2,Unknown
+68,Not Specified,0,Unknown
+69,72 Ave. bet. 112 St. and Grand Central Parkway,4,Adults Allowed
+70,75 Ave. bet. Bell Blvd. and 217 St.,2,Adults Allowed
+71,Nelson Av bet. Featherbed La and W 174 St,4,Adults not allowed in some locations
+72,"20 Ave., 21 Ave. bet. 123 St. and 124 St.",2,Adults Allowed
+73,La Guardia Pl. bet. W. 3 St. and Bleecker St.,0,Adults not allowed in some locations
+74,"Rapelye St., Hicks St., Coles St.",0,Unknown
+75,"47 Ave., Greenpoint Ave. bet. 42 St. and 43 St.",4,Adults Allowed
+76,Not Specified,0,Unknown
+77,Monroe St. to Madison St. between Marcy Ave. and Tompkins Ave.,4,Adults Allowed
+78,"Catherine Slip, Madison St. and South St.",0,Adults Allowed
+79,Liberty Ave. bet. 101 St. and 102 St.,4,Adults Allowed
+80,E. 103 St. to E. 104 St. between Ave. J and Ave. K,0,Adults not allowed in some locations
+81,E 114 St & Pleasant,4,Adults not allowed in some locations
+82,"Ft Washington Av, W 183 St, Pinehurst Av",4,Adults Allowed
+83,"Surf Ave. bet. W. 25 St. to W. 27 St., Boardwalk",4,Adults Allowed
+84,"Arberdeen St., Furman Ave. north of Bushwick Ave.",3,Adults Allowed
+85,167 St. bet. 108 Dr. and 109 Ave.,4,Adults Allowed
+86,150 St & 130 Ave,4,Unknown
+87,Boone Av bet. W Farms Rd and Freeman St,4,Adults Allowed
+88,Ft. Hamilton Pkwy. bet. 52 St. and 53 St.,4,Adults Allowed
+89,"W 105-106 Sts, Riverside Dr",4,Unknown
+90,"Ave. D, Ditmas Ave. bet. E. 56 St. and E. 57 St.",4,Adults Allowed
+91,40 Rd. bet. Prince St. and Main St.,4,Adults not allowed in some locations
+92,3 Ave. bet. 47 St. and 46 St.,4,Adults Allowed
+93,Britton St. bet. Olinville Ave. and Barker Ave.,4,Adults Allowed
+94,"Columbia St., Hicks St. bet. Congress St. and Atlantic Ave.",0,Adults Allowed
+95,Prospect Ave. bet. N/B Cross Bronx Exwy. and Fairmount Pl.,0,Unknown
+96,Wortman Ave. between Vermont St. and New Jersey Ave.,4,Adults Allowed
+97,W 189 St &  Amsterdam Ave,4,Adults Allowed
+98,New Jersey Ave. between Blake Ave. and Dumont Ave.,0,Unknown
+99,121 Ave. bet. 235 St. and 237 St.,4,Adults Allowed
+100,Halsey St. bet. Howard Ave. and Saratoga Ave.,3,Adults not allowed in some locations
+101,Hicks St. bet. Woodhull St. and Rapelye St.,4,Adults Allowed
+102,Mill Rd. to Weed Ave. bet. Tysens La. and Isernia Ave.,0,Adults Allowed
+103,Clove Rd & Cheshire Pl,3,Adults not allowed in some locations
+104,Murray St. bet. Barclay Ave. and Sanford Ave.,4,Adults Allowed
+105,"York Ave, E 91 St, E 92 St",0,Adults not allowed in some locations
+106,Central Ave. bet. 70 St. and 71 St.,4,Adults Allowed
+107,Mercer St. bet. Houston St. and W. 4 St.,0,Unknown
+108,Not Specified,0,Unknown
+109,"Washington Sq N, Washington Sq E",2,Adults not allowed in some locations
+110,Hylan Blvd. bet. Joline Ave. and Sprague Ave.,4,Adults not allowed in some locations
+111,"Jewel Ave., 71 Ave. bet. 163 St. and 164 St.",4,Adults Allowed
+112,"Mohegan Ave., Crotona Pkwy., E. 179 St.",0,Adults not allowed in some locations
+113,"Jackson St, Cherry St, FDR Drive",4,Adults Allowed
+114,Not Specified,0,Unknown
+115,"Szold Pl., E. 10 St., Ave. D",4,Adults Allowed
+116,"VC Park South, Gouverneur Ave",3,Adults Allowed
+117,"W 162 St, E/o Riverside Dr",4,Adults Allowed
+118,Glenwood Rd. between E. 100 St. and E. 101 St.,4,Adults Allowed
+119,"55 Dr., 64 St., Hull Ave.",0,Adults Allowed
+120,N. Conduit Ave. bet. Lefferts Blvd. and 122 St.,0,Unknown
+121,Mathews Ave. bet. Morris Park Ave. and Rhinelander Ave.,4,Adults Allowed
+122,"E. Broadway, Henry St., Gouverneur St.",2,Adults not allowed in some locations
+123,"W. 145 St. to W. 143 St., Lenox Ave., and Harlem River",0,Adults Allowed
+124,Lafayette Ave. bet. Stuyvesant Ave. and Malcom X Blvd.,4,Unknown
+125,"Belt Pkwy., Williams Court  bet. E. 12 St. and Homecrest Ave",4,Adults Allowed
+126,Payson & Dyckman Sts,4,Adults Allowed
+127,68 St & Central Park West (W),0,Unknown
+128,Ave. F bet. McDonald Ave. and E. 2 St.,2,Unknown
+129,Manhattan Ave. and Leonard St.,0,Unknown
+130,"Woodbine St., Madison St. bet. Woodward Ave. and Fairview Ave.",4,Adults Allowed
+131,"Nevins St., 3 Ave., bet. De Graw St. and Douglas St.",4,Adults not allowed in some locations
+132,"Vleigh Pl., Main St. bet. 73 Ter. and 76 Ave.",4,Adults not allowed in some locations
+133,Bruckner Blvd. bet. Willis Ave. and Brown Pl.,0,Adults Allowed
+134,Bay 46 & Cropsey Ave,4,Unknown
+135,150th St & Rockaway Blvd,0,Unknown
+136,240 St. bet. Braddock Ave. and Fairbury Ave.,2,Unknown
+137,Bedford Pk Blvd W And Paul Ave,0,Adults Allowed
+138,Greene Ave. bet. Waverly Ave. and Washington Ave.,2,Adults Allowed
+139,"Bedford Ave., Gravesend Neck Rd., Ave. V, E. 24 St.",3,Adults Allowed
+140,"Vernon Blvd, 40 & 41 Aves",0,Adults not allowed in some locations
+141,"S/s W. Houston St., Ave. of Americas",4,Adults not allowed in some locations
+142,19 St. bet. 11 Ave. and Seeley St.,4,Adults Allowed
+143,"Manhattan College Pkwy, Dash Pl, Greysto",0,Adults not allowed in some locations
+144,Not Specified,0,Unknown
+145,34 Ave. bet. 77 St. and 78 St.,4,Adults Allowed
+146,Ave. Z between Nostrand Ave. and E. 29 St.,2,Adults Allowed
+147,Ave. Y between Coyle St. and Batchelder St.,0,Unknown
+148,N/o Greene Ave,3,Adults Allowed
+149,Story Ave. bet. Taylor Ave. and Thieriot Ave.,4,Adults Allowed
+150,Madison Ave. bet. E. 130 St. and E. 131 St.,2,Adults not allowed in some locations
+151,"Sharon & Olive Sts, Morgan Ave",4,Adults not allowed in some locations
+152,Harbor Rd. at Richmond Terr.,4,Adults Allowed
+153,Glenmore Ave. between Powell St. and Sackman St.,3,Adults Allowed
+154,"Hope St., Marcy Ave., Metropolitan Ave.",3,Adults Allowed
+155,Union St. bet. Barclay Ave. and Sanford Ave.,4,Adults Allowed
+156,36 Ave bet. 9 St. and 10 St.,4,Adults Allowed
+157,Plimpton Ave. bet. W. 172 St. and  Edward L Grant Hwy.,3,Adults Allowed
+158,"Bruckner Exwy, Buhre Ave",0,Adults Allowed
+159,"Beechwood Ave., Crescent Ave. and Jersey St.",4,Adults not allowed in some locations
+160,"Laurel Hill Blvd., 48 Ave. bet. 63 St. and 64 St.",0,Adults Allowed
+161,E. 181 St. bet. Morris Ave. and Creston,2,Unknown
+162,Not Specified,0,Unknown
+163,E 158 st bet. Eagle Av and Caildwell Av,4,Adults Allowed
+164,Not Specified,0,Unknown
+165,Fulton Av bet. E 169 St and E 170 St,4,Adults Allowed
+166,"197 St., 196 St. bet. 113 Ave. and Murdock Ave.",2,Adults Allowed
+167,"Wild Ave, Pearson St",0,Adults not allowed in some locations
+168,"Broadway, 37 Ave. bet. 65 St. and 69 St.",4,Adults Allowed
+169,Noble Ave. bet. Bronx River Av and  E 177 St,0,Adults Allowed
+170,Berry St. between S. 9 St. and S. 10 St.,4,Adults Allowed
+171,W. Brighton Ave. between W. 2 St. and W. 3 St.,4,Adults Allowed
+172,E. 120 St. bet. 1 Ave. and 2 Ave.,0,Unknown
+173,"2 Ave., E. 19 St. To E. 20 St.",2,Adults Allowed
+174,"Van Wyck Exwy. Sr. Rd. E., 140 St. bet. 120 Ave. and Rockaway Blvd.",4,Adults not allowed in some locations
+175,30 Ave. bet. 29 St. and 30 St.,4,Adults Allowed
+176,"Horace Harding Exwy. Sr. Rd. S., 62 Ave. bet. 99 St. and 102 St.",0,Adults Allowed
+177,"E. 23 St. To E. 25 St., FDR Drive",1,Adults Allowed
+178,Summit Ave & W 161 Street,4,Adults not allowed in some locations
+179,Bet Grand & Hester Sts,3,Adults not allowed in some locations
+180,Arnold St. to Prospect Ave. bet. Harvard Ave and Clyde Pl.,4,Adults not allowed in some locations
+181,Jewel Ave & Van Wyck Exwy,4,Unknown
+182,Seaview Ave. between E. 99 St. and E. 101 St.,3,Adults Allowed
+183,"E Gun Hill & Eastchester Rds, Arnow Ave, O'Neill Pl",4,Adults Allowed
+184,E 174 & Bronx River Pkwy,0,Adults not allowed in some locations
+185,Schieffelin Ave. bet. E. 266 Dr. and E. 229 St.,2,Adults Allowed
+186,210 St & 73 Ave,4,Unknown
+187,Atlantic Ave. bet. Fountain Ave. and N. Conduit Ave.,0,Adults Allowed
+188,Knickerbocker St Entrance,3,Adults not allowed in some locations
+189,Albert Rd. bet. 96 St. and Centerville St.,2,Adults Allowed
+190,"FDR Dr., E. 106 St. To E. 107 St.",4,Adults Allowed
+191,Scholes St bet. Bushwick Av and Waterbury St,4,Unknown
+192,Greystone Av bet. W 236 St and W 240 St,4,Adults not allowed in some locations
+193,Yellowstone Bl bet. 62 Av and 62 Rd,4,Adults Allowed
+194,E. 95 St. bet. Ave. L and Ave. K,4,Adults Allowed
+195,Surf Ave. between W. 12 St. and W. 8 St.,4,Adults Allowed
+196,"Atlantic Ave., Columbia Pl., State St.",0,Adults Allowed
+197,79 St. bet. 68 Rd. and 69 Ave.,4,Adults Allowed
+198,W/s 7 Ave. bet. W. 127 St. and W. 129 St.,4,Adults Allowed
+199,"Prospect Pk S/W, Vanderbilt St",4,Unknown
+200,Clymer St. to Morton St. between Kent Ave. and Wythe Ave.,4,Adults not allowed in some locations
+201,McGraw Av bet. White Plains Rd and Virginia Av,4,Adults Allowed
+202,Booth St. bet. 68 Ave. and 68 Dr.,4,Adults Allowed
+203,5 Ave Nr Madison & 124 St,4,Unknown
+204,"Foste Rd., Carlton Ave., Drumgoole Rd. W.",4,Unknown
+205,Madison St. bet. Clinton St. and Rutgers St.,2,Adults Allowed
+206,Mother Gaston Blvd. and Sutter Ave.,0,Adults Allowed
+207,W 117 St & Morningside Ave,2,Unknown
+208,100 St & Central Park West,2,Unknown
+209,"University Ave & Fr Zeiser Pl, Near W 188 St",4,Adults Allowed
+210,"Cedar Grove Ave, New Dorp Ln, Neptune St",0,Adults Allowed
+211,Riverdale Ave. bet. Van Sinderen Ave. and Snediker Ave.,4,Adults not allowed in some locations
+212,Wortman Ave. between Jerome St. and Warwick St.,4,Adults Allowed
+213,Seagirt Blvd bet. B. 12 St. and B. 9 St.,4,Adults Allowed
+214,Cross Bronx Exwy. Sr. Ramp bet. Undercliff Ave. and Dr. MLK Jr. Blvd.,4,Adults not allowed in some locations
+215,Harrison Ave. between Walton St. and Lorimer St.,3,Adults Allowed
+216,"Union Turnpike, Vleigh Pl., 141 St.",3,Adults Allowed
+217,E 156 St bet. Tinton Av and Union Av,4,Adults Allowed
+218,Mace Ave. bet. Pauldings Ave. and Williamsbridge Rd.,4,Adults Allowed
+219,W 129 St & St Nicholas Terr,4,Adults Allowed
+220,"Rochester Ave, Carroll St",4,Adults Allowed
+221,80 Ave. bet. 261 St. and 262 St.,4,Adults Allowed
+222,"74-75 Sts, Ft Hamilton Pkwy",2,Adults not allowed in some locations
+223,Douglas Av bet. W 235 St and W 236 St,3,Adults Allowed
+224,"E 204 St, W/s Bronx Park",4,Adults not allowed in some locations
+225,146 St & 56 Rd,4,Unknown
+226,Not Specified,0,Unknown
+227,Mason Ave. bet. Buel Ave. and Dongan Hills Ave.,0,Adults Allowed
+228,Mother Gaston Blvd. and Glenmore Ave.,4,Adults Allowed
+229,120th Ave & 238th Street,4,Unknown
+230,"Myrtle Ave, Woodhaven Blvd",4,Unknown
+231,136 St & 14 Rd,4,Adults Allowed
+232,E 156 St bet. Fox St and Southern Blvd,2,Adults not allowed in some locations
+233,"E Mosholu Pkwy N, Kossuth Ave, Steuben Ave",4,Unknown
+234,"Murray Ave, Jarman Rd, Sylvester Ln, Abbot Rd",0,Unknown
+235,University Pl & Revere St,0,Adults not allowed in some locations
+236,"Crotona N Bet Marmion, Prospect",2,Adults not allowed in some locations
+237,Seagirt Blvd bet. B. 17 St. and B. 12 St.,0,Adults not allowed in some locations
+238,Not Specified,0,Unknown
+239,"10 Ave., New Utrecht Ave. bet. 43 St. and 42 St.",4,Adults Allowed
+240,W 181 St & Aqueduct Ave,4,Adults not allowed in some locations
+241,Hoe Av bet. Aldus St and Westchester Av,0,Adults not allowed in some locations
+242,160 St. bet. 75 Ave. and 75 Rd.,4,Adults Allowed
+243,St. Peter's Ave. at Tratman Ave.,3,Adults Allowed
+244,Jamaica Ave & 153 St,4,Adults not allowed in some locations
+245,Linden St. bet. Central Ave. and Wilson Ave.,3,Adults not allowed in some locations
+246,"Mott Ave., Westbourne Ave. bet. Bay 28 St. and Bay 25 St.",0,Adults Allowed
+247,Berriman St. between Vandalia Ave. and Schroeders Ave.,0,Unknown
+248,"Hillcrest Ave., N/o Highmount Rd.",4,Adults Allowed
+249,"Union Tpke, Park Lane S, Adj Overlook",3,Unknown
+250,W 140 St & St Nicholas Ave,4,Adults Allowed
+251,"Nr Springfield Lot, Ballfields",2,Unknown
+252,"Mill & Strickland Aves, 60 St",2,Adults Allowed
+253,Eastern Pkwy Between Washington Ave & Flatbush Ave,3,Adults not allowed in some locations
+254,3 Av bet. E 170 St and St Paul's Pl,2,Adults Allowed
+255,Reservoir & Sedgwick Aves,2,Unknown
+256,"Flushing Ave., Central Ave., Noll St., Evergreen Ave.",0,Adults Allowed
+257,Veterans Ave. between E. 66 St. and E 68 St.,0,Adults Allowed
+258,"Grassmere Terr., Briar Pl. bet. Hanson Ct. and Brookhaven Ave.",2,Unknown
+259,Sedgwick Ave & Fordham Rd,4,Adults not allowed in some locations
+260,"89 St., 90 St. bet. Northern Blvd. and Jackson Mill Rd.",2,Adults Allowed
+261,"Poppenhusen Ave, opp 119 St",4,Unknown
+262,E 156 St bet. Jackson Av and Forest Av,4,Adults Allowed
+263,E. 109 St. bet. 2 Ave. and 3 Ave.,0,Adults Allowed
+264,Hart St. to Pulaski St. between Throop Ave. and Marcus Garvey Blvd.,4,Adults Allowed
+265,Nr Guy Brewer Blvd & 134 Ave,1,Adults not allowed in some locations
+266,Avenue V bet. E. 13 St. and E. 14 St.,4,Adults Allowed
+267,Peck Ave. bet. 61 Rd. and 67 Ave.,0,Adults Allowed
+268,"Decatur St., Macdonough St. bet. Lewis Ave. and Marcus Garvey Blvd.",4,Adults Allowed
+269,"62 St, Bet West & Center Drs",2,Unknown
+270,Willoughby Ave. between Stuben St. and Emerson Pl.,2,Adults Allowed
+271,Brooklyn Ave & Prospect Pl,2,Adults Allowed
+272,Foster Ave. between E. 81 St. and E. 82 St.,4,Adults Allowed
+273,Nassau Ave Bet Monitor St & Russell St,4,Adults not allowed in some locations
+274,"51 Ave. bet. Jackson Ave., Vernon Blvd. and 11 St.",0,Adults Allowed
+275,Not Specified,0,Unknown
+276,Nostrand Ave. between Foster Ave. and Farragut Pl.,4,Adults not allowed in some locations
+277,Steinway St. bet. 23 Ave. and Ditmars Blvd.,4,Adults Allowed
+278,Not Specified,0,Unknown
+279,Southern Blvd bet. E 174 St and E 173 St,0,Unknown
+280,"99 St. To 100 St., 3 Ave.",4,Adults Allowed
+281,Jackson Ave. bet. E. 151 St. and E. 149,0,Adults Allowed
+282,"Albemarle Rd., Dahill Rd., Mcdonald Ave.",0,Adults Allowed
+283,Park Dr East & 73 Terrace,0,Unknown
+284,Skillman Ave. bet. 41 St. and 43 St.,4,Adults not allowed in some locations
+285,"Delafield Pl., Bard Ave., and Davis Ave.",0,Adults not allowed in some locations
+286,Bolton Ave. bet. O'Brien Ave. and G St.,2,Adults Allowed
+287,Main St & 56 Ave,0,Unknown
+288,Gold St. between Nassau St. and Concord St.,0,Adults Allowed
+289,St Ann's Ave & E 147 St,3,Adults Allowed
+290,Yellowstone Blvd. bet. 64 Rd. and 65 Ave.,4,Adults Allowed
+291,W 123 St & Morningside Ave,3,Adults Allowed
+292,E 11 St & East River Dr,4,Unknown
+293,Peck Ave & 188 St,2,Unknown
+294,Inside Willowbrook Park Adj To Carousel For All Children,0,Unknown
+295,W. Brighton Ave. between W. 2 St. and W. 3 St.,0,Adults not allowed in some locations
+296,Not Specified,0,Unknown
+297,Courtlandt Av bet. E 154 St and E 155 St,4,Adults Allowed
+298,Hutchinson River Pkwy. E. bet. Wilkinson Ave. and E. 197 St.,0,Adults Allowed
+299,"E. 93 St. to E. 94 St., between Lenox Rd. and Clarkson Ave.",4,Adults Allowed
+300,110 St & Cathedral Pkwy,3,Unknown
+301,"Horace Harding Exwy. Sr. Rd. S., 62 Ave. bet. 102 St. and Yellowstone Blvd.",0,Unknown
+302,"Watson Ave., Blackrock Ave. bet. Virginia Ave., Pugsley Ave.",0,Adults not allowed in some locations
+303,Bergen Ave And Avenue W,0,Unknown
+304,14 St. bet. 31 Ave. and 31 Dr.,4,Adults Allowed
+305,"Crotona E-Claremont, Charlotte",4,Adults Allowed
+306,Tompkins Ave. between Halsey St. and Macon St.,4,Adults Allowed
+307,Lexington Ave. bet. E. 122 St. and 123 St.,4,Adults Allowed
+308,W/s Of Meadow Lake & G C Pkwy,2,Unknown
+309,Palma Dr. bet. Targee St. and Oder Ave.,4,Adults Allowed
+310,Grand Concourse bet. E. 192 St. and E. K,4,Adults not allowed in some locations
+311,Arverne Blvd. bet. Beach 57 St. and Beach 56 St.,0,Adults Allowed
+312,Billingsley Ter bet. Phelan Pl and Sedwick Av,2,Adults Allowed
+313,"Lenox Ave., W. 139 St. To W. 140 St.",4,Adults Allowed
+314,"Atlantic Ave., Herkimer St., Kingston Ave., St Andrew's Pl.",4,Adults Allowed
+315,Frost St. bet. Debevoise Ave. and Kingsland Ave.,2,Adults not allowed in some locations
+316,Onderdonk Ave. bet. Starr St. and Willoughby Ave.,4,Adults Allowed
+317,"3 Ave. bet. E, 145 St. and E. 144 St.",4,Adults Allowed
+318,Yellowstone Blvd. bet. 68 Ave. and 68 Rd.,4,Adults Allowed
+319,W 148 St & Riverside Dr,4,Unknown
+320,"E. 117 St. To E. 118 St., 1 Ave. To 2 Ave.",4,Adults Allowed
+321,"Freedom Dr, Pk Lane S, 102 St",4,Unknown
+322,"Sterling St., Empire Blvd., New York Ave., Nostrand Ave.",4,Adults Allowed
+323,E. 180 St. bet. Daly Ave. and Vyse Ave.,0,Adults Allowed
+324,"Hempstead Ave., 225 St. and 224 St. Cross Island Parkway Exit at 225 St.",0,Adults Allowed
+325,Hoyt Ave. North bet. 29 St. and 31 St.,4,Adults Allowed
+326,E. 94 St. bet. Rutland Rd. and E. New York Ave.,0,Adults not allowed in some locations
+327,"Henry St., Market St., E. Broadway",2,Adults not allowed in some locations
+328,"Front St., John St., and South St.",0,Adults Allowed
+329,W 180 St & Amsterdam Ave,4,Adults Allowed
+330,Rockaway Boardwalk bet. B. 32 St and B. 28 St.,3,Adults not allowed in some locations
+331,Ave. K between E. 100 St. and E. 101 St.,0,Adults Allowed
+332,253 St. bet. 149 Ave. and 149 Rd.,4,Adults Allowed
+333,bet. Hudson River and South End Ave. S/o Liberty St.,0,Unknown
+334,"Carlton Ave., Fulton St., Green Ave.",4,Adults not allowed in some locations
+335,"End Of Cornelia Ave, Opp Hockey Rink",3,Adults not allowed in some locations
+336,"Crotona E-Claremont, Prospect",4,Adults not allowed in some locations
+337,Heath Pl & Highland Blvd,0,Unknown
+338,81 St & Central Pk West,4,Unknown
+339,"W. 26 St., 8 Ave. To 9 Ave.",4,Adults not allowed in some locations
+340,E. 136 St. bet. Brown Pl. and Willis Ave.,0,Adults Allowed
+341,Tilden Ave. between E. 48 St. and E. 49 St.,2,Adults Allowed
+342,38 St. bet. 31 Ave. and Broadway,2,Adults Allowed
+343,"Washington Sq N, West Of 5th Ave",0,Adults not allowed in some locations
+344,"Lorraine, Clinton, Henry Sts",4,Unknown
+345,"Court St., Smith St., bet. Carroll St. and President St.",3,Unknown
+346,E. 226 St. bet. White Plains Rd. and Barnes Ave.,4,Adults Allowed
+347,5 Ave. and E. 135 St.,2,Adults Allowed
+348,"Baxter St, Mulberry St, Bayard St and Park",0,Adults not allowed in some locations
+349,Ocean Ave & E Lake Dr,2,Unknown
+350,85 Ave. bet. 248 St. and 249 St.,3,Adults Allowed
+351,Not Specified,0,Unknown
+352,Independence Ave & W 227 St,2,Adults not allowed in some locations
+353,Myrtle Ave & St Edwards Plaza,2,Unknown
+354,"Beach 12 St., Redfern Ave.",4,Adults Allowed
+355,Viele Ave. bet. Tiffany St. and Barretto St.,0,Adults not allowed in some locations
+356,B 54 St & Almeda Ave,4,Unknown
+357,Goble Pl bet. Inwood Av and Macombs Rd,4,Adults Allowed
+358,Amsterdam Ave bet. W. 100 St. and W 102 St.,4,Adults Allowed
+359,"Rodney St., S. 3 St., Borniquen Pl.",0,Unknown
+360,"W. 108 St. to W. 109 St., Columbus Ave. and Amsterdam Ave.",4,Adults not allowed in some locations
+361,"Linden Blvd., Osborn St., Rockaway Ave., Hegeman Ave.",4,Adults Allowed
+362,Austin St. bet. 76 Ave. and 76 Dr.,3,Adults Allowed
+363,49 Ave. bet. 5 St. and Vernon Blvd.,2,Adults Allowed
+364,"Lorimer St, Driggs Ave",4,Unknown
+365,"Shore Pkwy., Brighton 3 St., Brighton 4 St.",0,Adults Allowed
+366,Kelly St bet. Av St John and Leggett Av,4,Unknown
+367,Baisley Blvd. 168 St. and Bedell St.,4,Adults Allowed
+368,"134 St., 135 St., bet. 111 Ave. and Lincoln St., Linden Blvd",4,Adults Allowed
+369,Wall St. bet. St Marks Pl. and Belmont Pl.,4,Adults not allowed in some locations
+370,Columbia Hts. at Middagh St.,4,Adults not allowed in some locations
+371,"N. Conduit Ave., 135 Ave. bet. 130 Pl. and 134 St.",4,Adults Allowed
+372,Flatlands Ave. between E. 81 St. and E. 82 St.,0,Unknown
+373,"Reservoir Oval East, Holt Pl",0,Unknown
+374,"B 80 St., B 79 St., Rockaway Beach Blvd., Beach Channel Dr.",3,Adults Allowed
+375,"Clarkson Ave., New York Ave.",2,Adults Allowed
+376,E. 139 St. bet. Brook Ave. and Willis Ave.,4,Adults Allowed
+377,67th To 68th Sts Along Riverside Dr,0,Adults not allowed in some locations
+378,B 14 St & Corbin Place,0,Unknown
+379,St Marys St & Crimmins Ave,0,Adults not allowed in some locations
+380,"29 And 32 Aves, 158 To 159 Sts",4,Adults Allowed
+381,"W 110-111 Sts, Riverside Dr",4,Unknown
+382,3 Ave. bet. 64 St. and 65 St.,4,Unknown
+383,124 St Btwn 5 Ave And Mt Morris Park West,4,Unknown
+384,"91 Ave., Archer Ave. bet. 138 Pl. and 138 St.",3,Adults Allowed
+385,"W. 138 St., bet. Lenox Ave. and 5 Ave.",2,Adults Allowed
+386,Union Tpke & 71 Ave,4,Unknown
+387,Rutgers St. and Henry St.,2,Adults not allowed in some locations
+388,"20 Ave, Whitestone Exwy",4,Adults Allowed
+389,"Nassau St, Flushing Ave, Navy St, N. Elliot Pl",4,Adults Allowed
+390,W. 97 St. and Amsterdam Ave.,4,Unknown
+391,Hamitlon Ave. ber. Van Brunt St. and Woodull St.,0,Unknown
+392,79 St & Shore Rd,4,Unknown
+393,Horatio Pkwy & 50th Ave,4,Unknown
+394,Northwest Corner Of Zone 2 Heritage Field,0,Adults not allowed in some locations
+395,"Ft George, St Nicholas Aves",4,Adults not allowed in some locations
+396,W 235 St & Douglas Ave,0,Adults not allowed in some locations
+397,Corner of Baruch Pl. and Mangin St.,4,Adults Allowed
+398,"Hegeman Ave., Linden Blvd. bet. Powell St. and Mother Gaston Blvd.",4,Adults Allowed
+399,"Francis Lewis Blvd., 121 Ave. bet. 219 St. and 222 St.",0,Adults Allowed
+400,Rivington St,2,Adults Allowed
+401,Lorimer St. bet. Montrose Ave. and Boerum St.,3,Adults not allowed in some locations
+402,"Nr Colonial Rd Entrance, 67 St, South Of B066-01",2,Unknown
+403,"Seaman Ave Bet Isham, W 207 St",2,Adults not allowed in some locations
+404,193 St & Aberdeen Rd,4,Unknown
+405,91 St & Central Park West,4,Unknown
+406,E 7 St - 8 St & Ave B,4,Unknown
+407,Rockaway Boardwalk bet. B. 60 St. and B. 59 St.,4,Adults Allowed
+408,Parade Pl & Crooke Ave,1,Unknown
+409,E 182 St bet. Belmont Av and Croton Av,4,Adults Allowed
+410,"Albany Ave., E. New York Ave., Lefferts Ave.",4,Adults Allowed
+411,"W. 52 St. To W. 54 St., 11 Ave. To 12 Ave.",0,Adults not allowed in some locations
+412,Not Specified,0,Unknown
+413,St. Raymond's Ave. bet. Odell St. and Purdy St.,4,Adults Allowed
+414,"Wilson Ave., Knickerbocker Ave., bet. Halsey St. and Weirfield St.",0,Adults not allowed in some locations
+415,10 Ave. bet. W. 47 St. and W. 48 St.,4,Adults Allowed
+416,S/s Cross Bronx Exwy bet. Townsend Av and Jerome Av,0,Unknown
+417,Sterling Pl. to Park Pl. between Classon Ave. and Washington Ave.,2,Unknown
+418,"55 Dr., Hamilton Pl., Perry Ave.",0,Adults not allowed in some locations
+419,"52 St., Woodside Ave. bet. 39 Rd. and 39 Dr.",4,Adults Allowed
+420,"Morningside Ave., W. 123 St. and W. 124 St.",1,Adults Allowed
+421,Adee Ave. at Tenboeck Ave.,3,Adults Allowed
+422,City Island Ave bet. Centre St. and Winter St.,4,Adults not allowed in some locations
+423,Magenta St. bet. Holland Ave. and Cruger Ave.,4,Adults Allowed
+424,23 Ave. bet. 212 St. and Bell Blvd.,4,Adults Allowed
+425,Mt Eden & Morris Ave,4,Adults not allowed in some locations
+426,Matilda Ave. to Carpenter Ave. bet. E. 239 St. and E. 240 St.,4,Adults Allowed
+427,"East 180th St, Boston Rd",2,Adults Allowed
+428,W. 12 St. between Neptune Ave. and Surf Ave.,4,Adults Allowed
+429,Not Specified,0,Unknown
+430,Macy Ave. bet. Lafayette Ave. and Kosciuszko St.,0,Adults Allowed
+431,"Jersey St., Crescent Ave., Layton Ave., Beechwood Ave.",3,Adults Allowed
+432,"W. 150 St., W/s 7 Ave.",3,Adults Allowed
+433,Clintonville St. bet. 17 Ave. and 17 Rd.,0,Adults Allowed
+434,Stanley Ave. between Autumn Ave. and Hemlock St.,4,Adults Allowed
+435,"W Mosholue Pkwy N, Gates Pl",4,Adults not allowed in some locations
+436,"41 Ave., 42 Ave. bet. 103 St. and 104 St.",3,Unknown
+437,"Merrick Blvd., Baisley Blvd. 120 Ave.",0,Unknown
+438,Underhill Ave. bet. Prospect Pl. and Park Pl.,4,Adults Allowed
+439,79 St & Park Lane South,0,Unknown
+440,"Canal St, Essex St, Jefferson St and E Broadway",2,Adults Allowed
+441,Ten Eyck St. to Stagg St. between Lorimer St. and Union Ave.,0,Adults Allowed
+442,166 St. bet. 21 Rd. and 21 Ave.,4,Adults not allowed in some locations
+443,W. 90 St. bet. Amsterdam Ave. and Columbus Ave.,4,Adults Allowed
+444,W 83 St & Riverside Dr,3,Unknown
+445,30 Rd. bet. 45 St. and 46 St.,4,Unknown
+446,"3 St., 4 St. bet. 4 Ave. and 5 Ave.",4,Adults Allowed
+447,Kosciuszko St. to Dekalb Ave. between Lewis Ave. and Stuyvesant Ave.,4,Adults not allowed in some locations
+448,Clinton St. between Verandah Pl. and Congress St.,4,Adults not allowed in some locations
+449,"Lexington Ave., E. 95 St. To E. 96 St.",4,Adults Allowed
+450,"Within Zone 1A, Along Hudson River At Approximately W 163 St",0,Adults not allowed in some locations
+451,E 170 St bet. Sheridan Av and Morris Av,0,Unknown
+452,18 Ave. bet. 83 St. and 82 St.,4,Adults Allowed
+453,Not Specified,0,Unknown
+454,Myrtle Ave. bet. Nostrand Ave. and Marcy Ave.,0,Adults Allowed
+455,"High St., Lyman Ave., Bay St. and Summer St.",0,Adults not allowed in some locations
+456,64 Ave. bet. 218 St. and 219 St.,4,Adults Allowed
+457,2 Ave. bet. 55 St. and 56 St.,4,Adults Allowed
+458,68 St & Central Park West (E),0,Unknown
+459,"W. 126 St. to W. 129 St., Amsterdam Ave. to Old Broadway",4,Unknown
+460,Colden & Juniper Sts,4,Unknown
+461,37 Ave. bet. Bowne St. and Parsons Blvd.,0,Adults Allowed
+462,20 Ave. bet. 47 St. and 48 St.,2,Adults Allowed
+463,Lafayette Ave. and Classon Ave.,4,Adults Allowed
+464,Bradford Ave. bet. La Salle Ave. and Waterbury Ave.,0,Adults Allowed
+465,"Stillwell Ave., Benson Ave., Bay 43 St.",0,Unknown
+466,"Hoyt Ave., bet. 24 St. and Crescent St.",0,Unknown
+467,S/S E 176 St bet. Crotona Av and Prospect Av,4,Adults Allowed
+468,Greencroft Ave. bet. Ainsworth Ave. and Redgrave Ave.,2,Adults Allowed
+469,"Elizabet.h St., Forest Ave., Broadway, Clove Lake Pl.",0,Unknown
+470,Ave. Z between W. 1 St. and West St.,2,Adults Allowed
+471,W 169 St & Merriam Ave,0,Adults Allowed
+472,67 St & 5th Ave,4,Unknown
+473,"Sand La., Major Ave. and Mcfarland Ave.",2,Unknown
+474,Not Specified,0,Unknown
+475,"E. 26 St. To E. 28 St., 2 Ave.",3,Adults Allowed
+476,E 188 St bet. Arthur Av and Hughes Av,3,Adults Allowed
+477,W 117 St & Morningside Ave,0,Adults not allowed in some locations
+478,Jewett Ave. and Castleton Ave.,0,Unknown
+479,"Van Wyck Exwy. Sr. Rd. E., 142 St., 106 Ave.",4,Adults Allowed
+480,Cross Bronx Exwy Service Rd N bet. Topping Av and Clay Av,4,Adults Allowed
+481,"Horace Harding Exwy. Sr. Rd. S., 138 St., 61 Rd.",2,Adults not allowed in some locations
+482,108 St & Fifth Ave,3,Unknown
+483,W/s 7 Ave. at W. 130 St.,4,Unknown
+484,"Amsterdam Ave., W. 104 St. and W. 105 St.",4,Adults Allowed
+485,"Park Ave., Martin Luther King Pl., Marcy Ave.",4,Unknown
+486,Second Ave. bet. E. 90 St. and E. 91 St.,4,Adults not allowed in some locations
+487,"E. 38 St., Ave. M, Flatlands Ave.",4,Adults Allowed
+488,"Rodney St., S. 3 St. and S. 4 St.",0,Adults Allowed
+489,Reservoir Oval West & 208 St,2,Adults not allowed in some locations
+490,"Union Hall St., 160 St. bet. 110 Ave. and 109 Ave.",4,Adults Allowed
+491,14 Ave & 86 St,4,Unknown
+492,E 25 St & Madison Ave,3,Adults not allowed in some locations
+493,"233 St, Dereimer St & Baychester Ave",4,Adults not allowed in some locations
+494,"Kissena Blvd., 155 St. bet. 65 Ave. and Melbourne Ave.",4,Adults Allowed
+495,62nd Drive And Grand Central Pkwy Service Rd,0,Unknown
+496,Not Specified,0,Unknown
+497,Not Specified,0,Unknown
+498,Franklin Ave. between Willoughby Ave. and Dekalb Ave.,4,Adults Allowed
+499,Warren St. to Baltic St. between Hoyt St. and Smith St.,4,Adults Allowed
+500,Between Park Building And Pond,4,Adults not allowed in some locations
+501,"77 St, W/o 5th Ave",3,Unknown
+502,Not Specified,0,Unknown
+503,Dean St. to Bergen St. between 6 Ave. and Carlton Ave.,4,Adults Allowed
+504,Ave. N between E. 49 St. and Utica Ave.,4,Adults Allowed
+505,"Hudson St., Bleecker St. and 8 Ave.",4,Adults Allowed
+506,"E Houston St, Stanton St, Sheriff St, Pitt St",4,Unknown
+507,"7 Ave. To 8 Ave., W. 143 St. To W. 144 St.",4,Adults Allowed
+508,Center Of Zone 2 Closer To Victory Blvd,0,Adults Allowed
+509,"1 St, E River, Hallets Cove",0,Unknown
+510,Hoe Av bet. Aldus St and Westchester Av,0,Adults not allowed in some locations
+511,Barnes Ave. bet. E. 216 St. and E. 215 St.,4,Adults Allowed
+512,"Bet Graham Blvd, Jefferson Ave, Father Capodanno Blvd.",4,Adults Allowed
+513,E 164 St & Jerome Ave,2,Adults not allowed in some locations
+514,Stanhope St. bet. Fairvier Ave. and Grandview Ave.,0,Adults not allowed in some locations
+515,Not Specified,0,Unknown
+516,Not Specified,0,Unknown
+517,67 Ave. bet. 173 St. and 174 St.,4,Adults Allowed
+518,E. 115 St. bet. 3 Ave. and Lexington Ave.,1,Adults Allowed
+519,Anthony Av bet. Prospect Pl and Ittner Pl,2,Adults Allowed
+520,164 St. bet. 65 Ave. and 67 Ave.,4,Adults Allowed
+521,Not Specified,0,Unknown
+522,"28 St., Crescent St. bet. 37 Ave. and 36 Ave.",3,Adults Allowed
+523,Bedford Ave. bet. S. 9 St. and Division Ave.,2,Adults Allowed
+524,82 Ave. bet. 256 St. and 257 St.,4,Adults Allowed
+525,E 183 St bet. Park Av and Webster Av,4,Adults not allowed in some locations
+526,"W. 89 St., Amsterdam Ave. and Columbus Ave.",2,Adults not allowed in some locations
+527,W. 204 St. bet. 10 Ave. and Nagle Ave.,3,Adults Allowed
+528,Riverdale Ave. bet. Thatford Ave. and Osborn St.,4,Adults not allowed in some locations
+529,Scholes St. bet. Manhattan Ave. and Graham Ave.,0,Unknown
+530,E 124 St Bet 1 & 2 Aves,0,Unknown
+531,102 St. bet. Corona Ave. and Alstyne Ave.,4,Adults Allowed
+532,"1 Ave., bet. E. 41 St. and E. 42 St.",0,Unknown
+533,"3 Ave, Whitestone Bridge Approach",4,Unknown
+534,155 Ave. bet. 83 St. and 84 St.,2,Adults Allowed
+535,E Tremont & Arthur Aves,2,Adults Allowed
+536,"Atlantic Ave., Cleveland St. and Liberty Ave.",0,Adults Allowed
+537,Macdonough St. between Malcolm X Blvd. and Stuyvesant Ave.,4,Adults Allowed
+538,"Jerome Ave, East Gunhill Rd",3,Unknown
+539,"Hudson St, St Luke's Pl, Clarkson St, 7 Av",4,Adults not allowed in some locations
+540,Ave. P bet. E. 4 St. and Ocean Pkwy.,0,Adults Allowed
+541,"Francis Lewis Blvd., 201 St. bet. 42 Ave. and Station Rd.",4,Adults Allowed
+542,Sutphin Blvd & 125 Ave,2,Unknown
+543,Lafayette Ave. bet. Bolton Ave. and Underhill Ave.,2,Adults Allowed
+544,Washington to Bathgate Av bet. W 181 St and E 183 St,0,Adults Allowed
+545,W 97 St & Riverside Dr,4,Unknown
+546,Woodruff Ave. and Ocean Ave.,4,Adults not allowed in some locations
+547,Lincoln Rd & Ocean Ave,3,Unknown
+548,"Cherry St. To Water St., W. Catherine Slip To Market Slip",2,Adults not allowed in some locations
+549,Kappock St Btw Independence & Palisade Aves,0,Adults not allowed in some locations
+550,"Penn St., Wythe Ave., Williamsburg St. E.",0,Adults Allowed
+551,3 Ave. bet. 35 St. and 34 St.,4,Adults Allowed
+552,"70 Rd., 71 Ave. bet. 150 St. and Kissena Blvd.",2,Adults Allowed
+553,W 179 St bet. Cedar Av and Sedgwick Av,0,Adults Allowed
+554,Belmont Ave. between Forbell St. and Drew St.,4,Adults Allowed
+555,Bailey Ave. bet. W. Kingsbrodge Rd. and W. 193 St.,4,Adults Allowed
+556,Thompson St bet. Spring St and Prince St,2,Adults Allowed
+557,E. 165 St. and Rogers Pl.,4,Adults Allowed
+558,Drumgoole Rd E & Woodhull Ave,4,Unknown
+559,Glenwood Rd. between E. 100 St. and E. 101 St.,4,Adults not allowed in some locations
+560,Ave. S bet. E. 14 St. and E. 15 St.,0,Adults Allowed
+561,65 Pl. bet. Shaler Ave. and the rail yards,0,Adults Allowed
+562,97 St & Central Park West,4,Unknown
+563,"Armstrong Ave, Tennyson Dr",0,Unknown
+564,Gerritsen Ave & Ave X,0,Adults not allowed in some locations
+565,"Dumont Ave., Blake Ave. bet. Bradford St. and Miller Ave.",4,Adults Allowed
+566,"Crotona E-Suburban, Charlotte",4,Adults Allowed
+567,Rockaway Beach Blvd. bet. Beach 84 St. and Beach 81 St.,4,Adults Allowed
+568,B 84 St & Shore Front Pkwy (W/o B 84 St),4,Unknown
+569,Home St bet. Boston Rd and Jackson Av,4,Adults not allowed in some locations
+570,"River Terr, Murray St",4,Unknown
+571,Not Specified,0,Unknown
+572,"Waring Ave, Bronx Pk E",4,Adults Allowed
+573,93 St & Central Park West,3,Unknown
+574,"Beach 65 St. to Beach 66 St., Beach Channel Dr.",4,Adults Allowed
+575,Rose & Oak Aves,4,Unknown
+576,Monroe St. to Madison St. between Patchen Ave. and Ralph Ave.,4,Adults Allowed
+577,"E 161 St, Trinity Av, E 163 St, Cauldwel",0,Unknown
+578,W 173 St & Ft Washington Ave,2,Adults not allowed in some locations
+579,56 Ave. bet. 201 St. and 202 St.,4,Adults Allowed
+580,Mosholu Parkway South bet. Bainbridge Ave. and Briggs Ave.,0,Adults Allowed
+581,60 St. bet. Borden Ave. and 55 Dr.,0,Adults not allowed in some locations
+582,"Foote Ave., Howard Ave., Martha St., Clove Rd.",4,Adults Allowed
+583,Vandervoort Ave. bet. Cherry St. and Anthony St.,0,Unknown
+584,E. 102 St. To E. 104 St. and 2 Ave.,4,Adults Allowed
+585,Dumont Ave. between Powell St. and Mother Gaston Blvd.,4,Adults not allowed in some locations
+586,Manida St bet. Spofford Av and Lafayette Av,0,Adults Allowed
+587,"32 Ave., 33 Ave. bet. Corporal Kennedy St. and 210 St.",0,Adults not allowed in some locations
+588,Stanley Ave. and Eldert La.,4,Adults Allowed
+589,251 St. bet. 61 Ave. and 63 Ave.,2,Adults Allowed
+590,Hoyt Ave. bet. 21 St. and 23 St.,4,Adults Allowed
+591,"Harlem River Dr., W. 151 St. To W. 154 St.",0,Adults not allowed in some locations
+592,Wyona St. to Vermont St. between Fulton St. and Jamaica Ave.,4,Adults Allowed
+593,Beach 49 St. bet. Elizabeth Ave. and Beach Channel Dr.,4,Unknown
+594,Winthrop St. between Rogers Ave. and Bedford Ave.,0,Adults Allowed
+595,"Broadway., 82 St., 45 Ave.",0,Adults Allowed
+596,Pearl St. bet. Fulton St. and Beekman St.,2,Adults not allowed in some locations
+597,"Brookville Blvd, 144 Ave &  Caney Rd.",4,Unknown
+598,"Ellery St. at Delmonico Pl., Hopkinds St. bet. Tompkins Ave. and Throop Ave.",4,Adults Allowed
+599,Crawford Ave. at Baychester Ave.,4,Adults Allowed
+600,E. Houston St. and FDR Dr.,4,Adults Allowed
+601,"51 Ave., 51 Rd., 72 Pl.",4,Unknown
+602,W. 78 St. and Amsterdam Ave.,3,Adults Allowed
+603,Olmstead Ave. bet. Turnbull Ave. and Lafayetter Ave.,0,Adults not allowed in some locations
+604,Dekalb Ave. between Adelphi St. and Carlton Ave.,4,Adults Allowed
+605,Aldus St to Bruckner Blvd bet. Bryant Av and Longfellow Av,4,Adults Allowed
+606,W 149 St & Bradhurst Ave,2,Adults Allowed
+607,Park Ave. bet. E 108 St. and E. 109 St.,4,Adults Allowed
+608,E 168 St bet.  Park Av and Washington Av,4,Adults Allowed
+609,"College Pt Blvd, Van Wyck Expwy, At Booth Memorial Ave",4,Unknown
+610,Livonia Ave. between Barbey St. and Schenck Ave.,4,Adults Allowed
+611,W 214 St & Seaman Ave,4,Adults not allowed in some locations
+612,Jamaica Ave & Elton St,0,Unknown
+613,W 175 St bet. Washington Av and Bathgate Av,2,Adults not allowed in some locations
+614,"E 219 St, Bronx River Parkway",2,Adults Allowed
+615,"Brielle Ave, Rockland Ave, Walcott Ave",0,Unknown
+616,"Vermont St, Stanley Ave, Gershwin JHS, Fence Betw Courts & Football Field",0,Adults Allowed
+617,"16 Ave., New Utrecht Ave. bet. 70 St. and 71 St.",3,Adults Allowed
+618,7 Ave. bet. W. 150 St. and W. 151 St.,4,Adults Allowed
+619,S. 4 St. bet. Roebling St. and Williamsburg Bridge Ramp,4,Adults Allowed
+620,"Bergen St., Utica Ave., Rochester Ave., St Mark's Ave.",0,Adults Allowed
+621,Schermerhorn St. bet. Nevins St. and 3 Ave.,4,Adults not allowed in some locations
+622,Brooklyn Ave & Prospect Pl,2,Adults not allowed in some locations
+623,"W 112-113 Sts, Riverside Dr",3,Unknown
+624,Brook Av to 3 Av bet. E 157 St and E 158 St,4,Adults Allowed
+625,On Beachfront-Sand Area (MPPA Section 11-12),4,Unknown
+626,E. 135 St. bet. Cypress Ave. and St Ann's Ave.,4,Adults Allowed
+627,59 Dr. bet. Fresh Pond Rd. and 63 St.,4,Adults Allowed
+628,"Center Of Pk, LIE Svce Rd, 54 Ave Between 63 And 61 Sts",2,Adults not allowed in some locations
+629,Ave. L bet. E. 17 St. and E. 18 St.,3,Adults Allowed
+630,Colonial Rd. from 83 St. to 85 St.,2,Adults Allowed
+631,"Ave. C, FDR Dr., E. 17 St.",4,Adults Allowed
+632,46 Ave. bet. 164 St. and 165 St.,0,Adults not allowed in some locations
+633,4 St & Prospect Pk W,3,Unknown
+634,St. Raymond's Ave. bet. Odell St. and Purdy St.,4,Adults Allowed
+635,21 St. bet. 34 Ave. and 35 Ave.,0,Adults Allowed
+636,"Manton St. bet. 83 Ave., 134 St. and Main St.",0,Unknown
+637,Farragut Rd. between E. 45 St. and E. 46 St.,0,Adults not allowed in some locations
+638,6 Ave. between 18 St. and 19 St.,2,Adults Allowed
+639,"Houston St., E. 1 St., 1 Ave.",2,Adults Allowed
+640,"Longfellow Ave., Lowell St., E. 165 St.",0,Unknown
+641,Not Specified,0,Unknown
+642,Mcdonald Ave. between Ave. S and Ave. T,0,Unknown
+643,"Tompkins Ave., Willoughby Ave., Vernon Ave.",4,Adults Allowed
+644,"30 Ave. To 31 Ave. and Boody St., BQE",0,Unknown
+645,"Lynch St., Middleton St. bet. Lee Ave. and Bedford Ave.",4,Adults Allowed
+646,"Fulton Ave Bet St Paul, E171",4,Adults Allowed
+647,E. 42 St. bet. 1 Ave. and 2 Ave.,0,Adults not allowed in some locations
+648,Little Neck Pkwy. bet. 42 Ave. and 43 Ave.,4,Unknown
+649,"67 St & Colonial Rd, North Of B066-02",2,Unknown
+650,"Cross Bay Blvd., Channel Rd. bet. E. 16 Rd. and E. 18 Rd.",4,Unknown
+651,E. 148 St. bet. Morris Ave. and College Ave.,0,Adults Allowed
+652,E. 101 St. bet. 3 Ave. and Lexington Ave.,4,Adults not allowed in some locations
+653,"66-67 Sts, 5th Ave",2,Unknown
+654,"Richmond Ter. To Kill Van Kull, Faber St.",0,Adults not allowed in some locations
+655,E. 141 St. bet. Brook Ave. and St Ann's Ave.,0,Adults Allowed
+656,Not Specified,0,Unknown
+657,Edith Ave. at Irvington St.,4,Adults Allowed
+658,Ralph Ave. bet. Chauncey St. and Sumpter St.,4,Adults Allowed
+659,Robard La. bet. Hollis Ave. and Montery St.,0,Adults Allowed
+660,Centreville St. bet. 133 Ave. and 103 St.,4,Adults Allowed
+661,35 Ave. bet. Steinway St. and 41 St.,4,Adults not allowed in some locations
+662,"E 227 St, Bronx River Parkway",0,Adults Allowed
+663,Claremont Pkwy bet. Park Av and Washington Av,0,Adults Allowed
+664,Union Sq W Betw. 17 & 16 St,3,Adults not allowed in some locations
+665,"Willowbrook Pkwy., Forest Ave. to Houston St.",0,Adults Allowed
+666,Rev James Polite Av to Interval Av bet. E 167 St and Home St,3,Adults Allowed
+667,Hoyt Ave. bet. 23 St. and  24 St.,0,Unknown
+668,East 84 St & East End Ave,3,Adults Allowed
+669,Brookville Blvd. bet. 136 Ave. 137 Ave.,2,Adults Allowed
+670,"Cherry St, Pike St, Monroe St",0,Adults Allowed
+671,149 St & 25 Ave,4,Adults Allowed
+672,W 76 St & Riverside Dr,3,Unknown
+673,Kissena Blvd & Booth Mem Ave,4,Unknown
+674,W. 70 St. bet. W. End Ave. and Amsterdam Ave.,1,Adults Allowed
+675,Balcom Ave Btw Schley & Miles Aves,0,Adults not allowed in some locations
+676,"Whitney Ave., 43 Ave., bet. Judge St. and Ketcham St.",0,Adults not allowed in some locations
+677,Mc Kibbin St. bet. White St. and Bogart St.,0,Adults Allowed
+678,Fulton St. between Saratoga Ave. and Hopkinson Ave.,3,Adults Allowed
+679,W. 49 St. bet. 9 Ave. and 10 Ave.,0,Unknown
+680,W 133 St & St Nicholas Ave,4,Adults Allowed
+681,"Grand Central Pkwy (Upper Area), GCP & Douglaston Pkwy Entrance",0,Unknown
+682,"Ave. S, Morre Pl. bet. E. 16 St. and E. 17 St.",4,Adults Allowed
+683,235 Ct. bet. Hillside Ave. and 87 Ave.,0,Adults Allowed
+684,"Jules Dr., Elson Ct., Regis Dr.",1,Adults Allowed
+685,E Houston To Stanton Sts,2,Adults not allowed in some locations
+686,Hudson Manor Ter bet. W 237 St and W 236 St,0,Unknown
+687,"Bet 81-82 Sts, N Conduit Ave",4,Adults Allowed
+688,Guerlain St. bet. Taylor Ave. and Thieriot Ave.,4,Adults Allowed
+689,Evergreen Ave. between Eldert St. and Covert St.,2,Adults Allowed
+690,79 St & 5 Av,0,Unknown
+691,"W. 126 St. to W. 129 St., Amsterdam Ave. to Old Broadway",0,Adults Allowed
+692,193rd St And Radnor Road,4,Unknown
+693,S. 3 St. bet. Berry St. and Bedford Ave.,0,Adults Allowed
+694,Springfield Blvd. bet. 53 Ave. and 56 Ave.,2,Adults not allowed in some locations
+695,Morris Park Ave. bet. Haight Ave. and Tomlinson Ave.,4,Adults Allowed
+696,"Seaview Ave, E 92 St",4,Unknown
+697,"100 St., 98 St. bet. 24 Ave. and 25 Ave.",0,Adults Allowed
+698,Willoughby Ave. between Lewis Ave. and Marcus Garvey Blvd.,4,Adults Allowed
+699,W. 146 St. bet. Fredrick Douglass Blvd. and Adam Clayton Powell Blvd.,0,Adults Allowed
+700,Lafayette Ave Btw Marcy & Tompkins Aves,4,Adults not allowed in some locations
+701,"45 Ave., 45 Rd. bet. 11 St. and 21 St.",4,Adults not allowed in some locations
+702,Malcom X Blvd. between Chauncey St. and Marion St.,0,Adults Allowed
+703,Ditmas Ave. bet. E. 92 St. and E. 91 St.,2,Adults Allowed
+704,Jackson Ave & 144 St,4,Adults Allowed
+705,"Bailey Ave, W 234 St To Approximately W 235 St",3,Unknown
+706,Pacific St. between Nevins St. and 3 Ave.,4,Adults not allowed in some locations
+707,"2 Ave., E. 96 St. to E. 97 St.",0,Unknown
+708,80 St & Myrtle Ave,3,Unknown
+709,Broadway & Dyckman St,3,Unknown
+710,W. 139 St. bet. Adam C Powell Blvd. and Lenox Ave.,4,Adults Allowed
+711,Franklin St. bet. Commerical St. and Dupoint St.,3,Adults Allowed
+712,"Columbus Ave., W. 91 St. To W. 92 St., Central Park W.",4,Adults Allowed
+713,"Adelphi St., Clermont Ave., Dekalb Ave., Willoughby Ave.",2,Adults Allowed
+714,Morningside Dr & 110 St,4,Adults not allowed in some locations
+715,Not Specified,0,Unknown
+716,E. 12 St. bet. Ave. A and Ave. B,4,Adults not allowed in some locations
+717,Franklin St. bet. Milton St. and Noble St.,4,Adults Allowed
+718,"Forest Ave., Myrtle Ave., Broadway, N. Burgher Ave.",0,Unknown
+719,Not Specified,0,Unknown
+720,Ralph Ave. and Farragut Rd.,4,Adults Allowed
+721,W 164 St & Edgecombe Ave,3,Unknown
+722,Virginia Ave. and Anderson St.,4,Adults Allowed
+723,N/s Cross Bronx Exwy bet. Morris Av and Grand Concourse,0,Adults not allowed in some locations
+724,Edgecombe Ave. Between 155 St & 157 St,0,Adults not allowed in some locations
+725,Park Ave. bet. Washington Ave. and Hall St.,4,Adults Allowed
+726,Arverne Blvd. bet. Beach 56 St. and Beach 54 St.,4,Adults Allowed
+727,94th St & Ridge Blvd,4,Unknown
+728,Marble Hill Av bet. W 230 St and W 228 St,4,Adults Allowed
+729,134 Rd. and 173 St.,3,Adults Allowed
+730,Hopkinson Ave. bet. Marion St. and Chauncey St.,4,Adults Allowed
+731,"96 St, W/o Fifth Ave",4,Unknown
+732,Little Neck Pkwy. bet. 72 Ave. and 73 Ave.,0,Adults Allowed
+733,Preston Ave. bet. Koch Blvd. and Osborne St.,2,Adults Allowed
+734,"Near The Recreation Building, Off Baisley Blvd",2,Unknown
+735,"11 St., 12 St. bet. 2 Ave. and 3 Ave.",0,Adults Allowed
+736,Not Specified,0,Unknown
+737,E 183 St bet. Washington Av and Park Av,3,Adults Allowed
+738,Orchard Beach  Section 6-7,3,Unknown
+739,W 91 St & Riverside Dr,3,Unknown
+740,"Lincoln Ave., Mason Ave., Midland Ave., Poultney St.",0,Unknown
+741,"Prospect St., York St. bet. Jay St. and Bridge St.",0,Adults Allowed
+742,Decatur St. to Schaefer St. between Bushwick Ave. and Evergreen Ave.,4,Adults Allowed
+743,W 240 St & Broadway,4,Unknown
+744,Rockaway Beach Blvd. bet. Beach 110 St. and Beach 109 St.,4,Adults Allowed
+745,73 Ave. bet. 195 St. and 196 Pl.,4,Adults Allowed
+746,Not Specified,0,Unknown
+747,Hudson St. bet. Gansevoort St. and Horatio St.,2,Adults Allowed
+748,"Queens Midtown Exwy., 57 Ave. bet. 84 St. and 82 St.",4,Unknown
+749,"M C Plaza, Ft Washington Ave",4,Adults Allowed
+750,Madison St. bet. 60 Pl. and Fresh Pond Rd.,4,Adults Allowed
+751,"Ave. L, E. 4 St., Mcdonald Ave., Ave. M",0,Unknown
+752,"Atlantic Ave., 95 Ave. bet. 127 St. and 125 St.",0,Unknown
+753,Arnow Ave. bet. Olinville Ave. and White Plains Rd.,4,Adults Allowed
+754,115 Rd. bet. 218 St. and 2019 St.,4,Adults Allowed
+755,179 Pl. bet. 90 Ave. and Jamaica Ave.,4,Adults Allowed
+756,"E. 48 St. To E. 49 St., FDR",4,Adults Allowed
+757,Sullican Pl. bet. Rogers Ave. and Nostrand Ave.,2,Adults not allowed in some locations
+758,Remsen Ave. and Glenwood Rd.,0,Adults Allowed
+759,"Springfield Blvd., Sloan St. bet. 139 Ave. and Eastgate Plaza",0,Adults Allowed
+760,"FDR Dr., E. 60 St. To E. 61 St. and York Ave.",4,Adults Allowed
+761,Shore Blvd Opp 23 Ave,0,Adults Allowed
+762,3 Ave. bet. 40 St. and 41 St.,0,Adults Allowed
+763,N. Conduit Ave. bet. 230 Pl. and the Belt Pkwy.,0,Unknown
+764,72 St & East Green,2,Unknown
+765,Lanett Ave. bet. Beach 9 St. and Beach 8 St.,3,Adults not allowed in some locations
+766,"Hamilton Pl., W. 140 St. To W. 141 St.",4,Adults Allowed
+767,"Riverside Dr., Claremont Ave. To W. 122 St.",4,Adults not allowed in some locations
+768,Dumont Ave & Bristol St,1,Adults not allowed in some locations
+769,Madison St. bet. Catherine St. and Oliver St.,4,Adults Allowed
+770,"Sheridan Exwy, Bronx River, S/o E 174 St Bridge",0,Adults not allowed in some locations
+771,"N/s E. 104 St., Madison Ave. and Park Ave.",4,Adults Allowed
+772,Ave. H between E. 54 St. to E. 55 St.,0,Adults Allowed
+773,Not Specified,0,Unknown
+774,W 152 St & Bradhurst Ave,2,Adults Allowed
+775,E. 177 St. at Walton Ave.,4,Adults not allowed in some locations
+776,Reservoir Oval West,4,Adults not allowed in some locations
+777,11 St & Prospect Park W,2,Unknown
+778,Union St. bet. 31 Rd. and 31 Dr.,4,Adults Allowed
+779,Cropsey & Bay 8,4,Unknown
+780,Not Specified,0,Unknown
+781,137 St. bet. 76 Ave. and 76 Rd.,4,Adults Allowed
+782,2 Ave. bet. E. 29 St. and E. 30 St.,4,Adults Allowed
+783,Spring St. and Mulberry St.,4,Adults Allowed
+784,"Lenox Ave, W. 113 St. To W. 114 St.",1,Unknown
+785,"S. 5 St., Broadway, Havemeyer St.",0,Unknown
+786,34 Ave & Vernon Blvd,4,Adults not allowed in some locations
+787,E. 133 St. and Bruckner Blvd. bet. St Ann's Pl. and Cypress Ave.,0,Unknown
+788,Wyckoff St. between Hoyt St. and Bond St.,3,Adults not allowed in some locations
+789,17 St. bet. 5 Ave. and 6 Ave.,0,Adults Allowed
+790,Lee Ave. between Wilson St. and Taylor St.,4,Adults Allowed
+791,"Bowen St., Vanderbilt Ave., Targee St.",0,Adults not allowed in some locations
+792,"157 St., 155 St. bet. 108 Ave. and 109 Ave.",0,Adults not allowed in some locations
+793,"Crotona Pk E, E 173 St",2,Adults Allowed
+794,"5 Ave., W. 130 St. To .W 131 St.",2,Adults Allowed
+795,B 82 St & Shore Front Pkwy (W/o B 82 St),2,Unknown
+796,Mosholu Parkway South bet. Bainbridge Ave. and Briggs Ave.,0,Adults Allowed
+797,25 Ave. bet. 76 St. and 77 St.,3,Adults Allowed
+798,Chambers St. bet. Greenwich St. and West St.,4,Adults not allowed in some locations
+799,Dahill Rd. bet. 37 St. and 38 St.,2,Adults Allowed
+800,Lakeview Lane & 122 Ave,2,Unknown
+801,E 164 St bet. Teller Av and Clay Av at Park Ave,4,Adults Allowed
+802,111 St & Saultell & 56 Aves,1,Unknown
+803,Cromwell Ave & McClellan St,3,Adults not allowed in some locations
+804,W 124 St & Riverside Dr,4,Unknown
+805,Vermont St. bet. Pitkin Ave. and Belmont Ave.,4,Adults Allowed
+806,E 121st & Madison Ave,4,Unknown
+807,Nostrand Ave. bet. Kings Hwy. and Ave. P,4,Adults Allowed
+808,37 Av bet. 112 and 113 Sts,0,Adults Allowed
+809,Rivington St. and Attorney St. bet. Clinton St. and Ridge St.,4,Adults Allowed
+810,88 Ave. to 89 Ave. at 90 St.,2,Adults Allowed
+811,Christopher Ave. between Sutter Ave. and Belmont Ave.,4,Adults Allowed
+812,"Fulton St., Truxton St., bet. Eastern Pkwy. and Van Sinderen Ave.",0,Adults Allowed
+813,"E 178 St & Ryer Ave, Upper Level",2,Adults Allowed
+814,Fox St to Tiffany St bet. E 167 St and E 165 St,2,Adults Allowed
+815,6 Ave Bet 41 & 44 Sts,0,Unknown
+816,Hoffman Dr. bet. 58 Ave. and Woodhaven Blvd.,4,Adults Allowed
+817,6 Ave. bet. 55 St. and 56 St.,4,Adults Allowed
+818,Chester St. to Bristol St. between Sutter Ave. and Pitkin Ave.,3,Adults Allowed
+819,St Nicholas Ave. and W. 156 St.,4,Adults Allowed
+820,"FDR Dr., E 76 St. To E 78 St.",3,Adults not allowed in some locations
+821,Euclid Ave. bet. Dumont Ave. and Blake Ave.,4,Adults Allowed
+822,Ave. Y between Brown St. and Haring St.,2,Adults Allowed
+823,W. 12 St. bet. Bay Pkwy. and Ave. P,4,Adults not allowed in some locations
+824,"210 St., Oceania St. bet. the Long Island Exwy. and 64 Ave.",2,Adults Allowed
+825,98 St. bet. Northern Blvd. and 32 Ave.,2,Adults Allowed
+826,Campus Rd. bet. E. 21 St. and Ocean Ave.,4,Adults not allowed in some locations
+827,85 St & 5th Ave,1,Unknown
+828,"Landing Rd., Major Deegan Exwy., Bailey",0,Unknown
+829,"Grand Ave., 57 Ave. bet. 74 St. and 80 St.",0,Adults not allowed in some locations
+830,Not Specified,0,Unknown
+831,"Ft Hamilton Pkwy., Prospect Ave., Greenwood Ave.",4,Adults Allowed
+832,Not Specified,0,Unknown
+833,E 135 St bet. Alexander Av and Willis Av,4,Adults Allowed
+834,"Washington Sq S, Sullivan St",0,Adults not allowed in some locations
+835,148 St. bet. 85 Ave. and 85 Rd.,4,Adults not allowed in some locations
+836,"11 Ave., 12 Ave. bet. 152 St. and 154 St.",4,Adults Allowed
+837,E. 183 St. bet. Valentine Ave. and Ryer,3,Unknown
+838,W. 180 St. bet. Davidson Ave. and Grand,4,Unknown
+839,E. 188 St. bet. Webster Ave. and Park Ave.,4,Adults Allowed
+840,W 148 St & Hudson River,3,Adults Allowed
+841,121 Ave. bet. Lucas St. and 192 St.,2,Adults Allowed
+842,Cauldwell Ave bet. E. 161 St  and E. 163 St.,3,Adults Allowed
+843,W. 254 St. bet. Riverdale Ave. and Mosholu Ave.,4,Adults Allowed
+844,"171 St., 172 St. bet. 33 Ave. and 35 Ave.",0,Adults Allowed
+845,Alderton St. bet. Dieterle Cr. and Ellwell Cr.,3,Adults Allowed
+846,Flushing Ave. between Beaver St. and Garden St.,4,Adults Allowed
+847,Sumpter St. to Marion St. between Howard Ave. and Ralph Ave.,4,Adults Allowed
+848,Not Specified,0,Unknown
+849,"Fillmore Ave, Madison Pl",3,Unknown
+850,Not Specified,0,Unknown
+851,W. 181 St. bet. Grand Ave. and Davidson,0,Adults not allowed in some locations
+852,"River Terr, Warren St",3,Unknown
+853,"Beechwood Ave., Crescent Ave. and Jersey St.",4,Adults Allowed
+854,W 166 St bet. Woodycrest Av and Nelson Av,4,Adults Allowed
+855,"Ogden Av, Plimpton Av, W 170 St",4,Adults Allowed
+856,Brighton 2 St. bet. Brightwater Ct. and Boardwalk E.,2,Adults not allowed in some locations
+857,"Broadway, Wayne St",0,Adults not allowed in some locations
+858,E 175 St & Arthur Ave,0,Adults Allowed
+859,"Bronxdale Ave, Bronx Pk E",4,Adults Allowed
+860,56 Ave. bet. 201 St. and 202 St.,4,Adults Allowed
+861,Booth Memorial Ave & 160 St,4,Unknown
+862,Coutlandt Av bet. E 161 St and E 162 St,4,Adults not allowed in some locations
+863,"W 116-117 Sts, Riverside Dr",3,Unknown
+864,Howard Ave. bet. Pacific St. and Dean St.,4,Adults Allowed
+865,"72 St, 74st, Juniper Blvd South",3,Unknown
+866,President St. and Van Brunt St.,2,Adults not allowed in some locations
+867,"Grandview Ave., at Continental Pl.",4,Unknown
+868,Liberty Ave. bet. 183 St. and 183 Pl.,2,Adults Allowed
+869,"Hamilton Ave., Nelson St. Clinton St.",4,Adults not allowed in some locations
+870,"80 St. To 81 St., 11 Ave. To 12 Ave.",4,Adults not allowed in some locations
+871,"Columbia St, Delancey St and Bialystoker Pl",2,Adults not allowed in some locations
+872,164 Pl. bet. Grand Central Pkwy. Sr. Rd. S. and 84 Ave.,0,Adults Allowed
+873,"Winchester Blvd, Union Tpke",4,Unknown
+874,Beach 32 St & Beach Channel Drive,4,Unknown
+875,Union Av bet. E 150 St and  e 152 St,4,Adults Allowed
+876,W 74 St,0,Unknown
+877,Grand Concourse to Walton Av bet. E 161 St and E 164 St,4,Adults not allowed in some locations
+878,Berkeley Pl. and Lincoln Pl. between 5 Ave. and 6 Ave.,2,Adults Allowed
+879,Corner Of Bartow Ave. and Page Ave.,4,Adults Allowed
+880,Jerome Av bet. E 174 St and the Cross Bronx Exwy Entrance Ramp,2,Adults not allowed in some locations
+881,Clove Road & Forest Ave,3,Adults not allowed in some locations
+882,"8th Ave To Ft Hamilton Pkwy, Btwn 66th And 67th Street",0,Unknown
+883,"W. 64 St., bet. Amsterdam Ave. and West End Ave.",3,Unknown
+884,"Convent and Amsterdam Av, W 135 St",4,Adults Allowed
+885,Kissena Blvd. bet. Maple Ave. and Franklin Ave.,4,Adults Allowed
+886,Not Specified,0,Unknown
+887,"73 Ave., Jewel Ave. bet. Utopia Pkwy. and 179 St.",2,Adults Allowed
+888,Bath Ave. between Bay 22 St. and Bay 23 St.,4,Adults Allowed
+889,21 St. bet. 29 Ave. and 30 Ave.,0,Adults Allowed
+890,"E. 127 St., 2 Ave., and Harlem River Drive",0,Unknown
+891,Howard Ave. bet. Atlantic Ave. and  Herkimer St.,4,Adults not allowed in some locations
+892,Wythe Ave. bet. Grand St. and S. 1 St.,0,Adults Allowed
+893,Morris Av bet. Mc Clellan St and E 166 St,4,Adults Allowed
+894,W. 11 St. at Ave. W,4,Adults Allowed
+895,"Drumgoole Rd. E., N. Railroad St., Ida Ct.",4,Adults not allowed in some locations
+896,"N/B Cross Bronx Exwy Service Rd, Watson Av, Havemeyer Ave",4,Adults Allowed
+897,"Flushing Ave., Steuben St., Williamsburg Pl.",0,Unknown
+898,North Side Of E 157th St & River Ave,2,Adults not allowed in some locations
+899,"Adelphi St., Myrtle Ave., Clermont Ave.",4,Adults Allowed
+900,Hillside Ave. bet. 207 St. and 208 St.,2,Adults Allowed
+901,"Winthrop St., Brooklyn Ave., Rutland Rd.",0,Adults not allowed in some locations
+902,"E 153 St, Walton Ave & Gerard Ave",4,Adults not allowed in some locations
+903,"W 239 St, Van Cortlandt East",3,Unknown
+904,Not Specified,0,Unknown
+905,St Felix Ave. bet. Seneca Ave. and 60 Pl.,4,Unknown
+906,"Central Ave., Troutman St. and Starr St.",4,Adults Allowed
+907,Troy Ave & Prospect Place,4,Adults not allowed in some locations
+908,Dongan Hills Ave. and Jefferson St.,0,Adults Allowed
+909,Louisiana & Flatlands Ave,4,Unknown
+910,Jamaica Ave. bet. 202 St. and 204 St.,0,Adults Allowed
+911,"Lexington Ave., E. 128 St. to E. 129 St.",4,Adults Allowed
+912,100 St & 5th Ave,1,Unknown
+913,47 St. bet. 8 Ave. and 9 Ave.,3,Adults Allowed
+914,"Corona Ave. bet. 104 St. and 106 St., 50 Av.",0,Adults not allowed in some locations
+915,Fairmount Pl bet. Clinton Av and Prospect Av,0,Unknown
+916,62 Dr. bet. 97 Pl. and 98 St.,4,Adults Allowed
+917,Brinsmade Ave. bet. Cross Bronx Ser. Rd. and Swinton Ave.,4,Unknown
+918,"Morrison Ave, Watson Ave",0,Adults Allowed
+919,Bronx River Pkwy & Rosewood St,4,Adults Allowed
+920,Not Specified,0,Unknown
+921,"Tompkins Ave., bet. Chestnut St. and Shaughnessy La.",0,Unknown
+922,Perry Ave. bet. E. 205 St. and E. 208 St,0,Unknown
+923,Shore Pkwy. bet. Bay 14 St. and Bay 16 St.,2,Adults not allowed in some locations
+924,Lafayette Ave. and Franklin Ave.,4,Adults Allowed
+925,E. 148 St. bet. Morris Ave. and College Ave.,0,Adults not allowed in some locations
+926,Queens Blvd. bet. 62 Ave. and 62 Rd.,4,Adults not allowed in some locations
+927,174 St & 113 Ave,0,Adults not allowed in some locations
+928,Seguine Ave S/o Hylan Blvd,4,Adults Allowed
+929,248 St. bet. Van Zandt Ave. and 52 Ave.,2,Adults Allowed
+930,Not Specified,0,Unknown
+931,Flushing Ave. bet.. Beaver St. and Garden St.,3,Adults Allowed
+932,E 193 St & Jerome Ave,4,Adults not allowed in some locations
+933,"74 St., 75 St. bet. Cooper Ave. and 78 Ave.",4,Adults Allowed
+934,7 Ave. bet. 81 St. and 82 St.,4,Adults Allowed
+935,147 Ave & 184 St,4,Unknown
+936,"Belmont Ave., Sutter Ave., Sheridan Ave. and Grant Ave.",4,Adults not allowed in some locations
+937,"1 Ave.,2 Ave., bet. E. 35 St. and E. 36 St.",4,Unknown
+938,20 Ave. bet. 37 St. and 38 St.,4,Adults Allowed
+939,"Whipple St., Bartlett St., between Throop Ave. and Flushing Ave.",4,Adults Allowed
+940,Taaffe Pl. bet. Park Ave. and Myrtle Ave.,0,Adults Allowed
+941,"Minetta Lane, W. 3 St. and Ave. of Americas",0,Adults not allowed in some locations
+942,34 Ave & 214 Pl,4,Unknown
+943,Not Specified,0,Unknown
+944,"Downing St to Carmine St, Av Of Americas",4,Adults Allowed
+945,"Ave. Y, Ave. X bet. E. 24 St. and Bedford Ave.",0,Adults Allowed
+946,Randall Ave. bet. Olmstead Ave. and Castle Hill Ave.,4,Adults Allowed
+947,Ave. K between E. 58 St. and E. 59 St.,0,Adults not allowed in some locations
+948,"Winter Ave., bet. Bismark Ave. and Westervelt Ave.",4,Adults Allowed
+949,"bet. Pierrepont Pl., Pierrepont St. and the BQE",4,Adults Allowed
+950,Sackman To Powell Sts bet. Glenmore and Pit,4,Unknown
+951,"74 Ave., 260 St.",4,Adults not allowed in some locations
+952,106 St. bet. Atlantic Ave. and 94 Ave.,4,Adults Allowed
+953,W. 43 St. bet. 8 Ave. and 9 Ave.,3,Adults Allowed
+954,"Public Beach, W. 29 St. and W. 32 St.",4,Adults Allowed
+955,"9 Av To 10 Av, W 27 St To W 28 St",4,Adults not allowed in some locations
+956,"86 St, W/o West Drive",4,Unknown
+957,"Jay St., Bridge St. bet. Tillary St. and Cathedral Pl.",4,Adults not allowed in some locations
+958,"Atlantic Ave., 95 Ave. bet. 88 St., 89 St.",3,Adults Allowed
+959,147 St. bet. 26 Ave. and 27 Ave.,4,Adults not allowed in some locations
+960,W. 22 St. and 10 Ave.,4,Adults not allowed in some locations
+961,Colden St & Geranium Ave,4,Unknown
+962,Langham St & Oriental Ave,2,Adults not allowed in some locations
+963,"W. 135 St. To W. 136 St., Lenox Ave. To 5 Ave.",4,Adults Allowed
+964,Knickerbocker Ave. bet. Woodbine St. and Putnam Ave.,4,Adults not allowed in some locations
+965,108 St & Myrtle Ave,4,Unknown
+966,FDR Dr. bet. E. 102 St. and E. 106 St.,4,Unknown
+967,115 St. bet. 14 Ave. and 14 Rd.,4,Adults not allowed in some locations
+968,Avenue H bet. Kings Hwy. and E. 49 St.,4,Adults not allowed in some locations
+969,"W. 13 St., Stillwell Ave. bet. Ave. U and Ave. V",0,Unknown
+970,"Amsterdam Av, W 151 St To W 152 St",4,Unknown
+971,Flushing Ave. between N. Portland Ave. and N. Oxford St.,4,Adults Allowed
+972,E. 174 St. bet. Bronx River Ave. and E. 173 St.,0,Adults Allowed
+973,"Adelaide Ave., Clawson St.",0,Unknown
+974,Not Specified,0,Unknown
+975,"Gleason Ave., Watson Ave. bet. Noble Ave., and Rosedale Ave.",0,Adults Allowed
+976,"Bruckner Exwy, Wilkinson Ave",4,Unknown
+977,Lafayette Ave. bet. Waverly Ave. and Washington Ave.,3,Adults not allowed in some locations
+978,Creston Ave. bet. E. Burnside Ave. and E,4,Adults not allowed in some locations
+979,West Drive opp Garfield Pl,3,Unknown
+980,Not Specified,0,Unknown
+981,"18 Ave., 19 Ave., bet. 55 St. and 58 St.",2,Adults not allowed in some locations
+982,"37 St., 38 St., bet. 20 Rd. and 20 Ave.",0,Unknown
+983,Parkinson Ave. at Kramer St.,2,Adults Allowed
+984,Morningside Ave & 113 St,4,Adults not allowed in some locations
+985,73 Ave. bet. 195 St. and 196 Pl.,4,Adults Allowed
+986,"Bedford Ave., Hancock St., Jefferson Ave.",4,Adults Allowed
+987,"56 Ave., 92 St.",4,Adults Allowed
+988,58 Ave. bet. Brown Pl. and 69 St.,3,Adults not allowed in some locations
+989,E. 42 St. bet. 1 Ave. and 2 Ave.,4,Adults not allowed in some locations
+990,Olinville Ave. at Rosewood St.,2,Adults Allowed
+991,"Castle Hill Av, Parker St",4,Adults Allowed
+992,"Next To Nature Ctr At 222 Poillon Ave, Btw Amboy Rd, Hylan Blvd",0,Adults not allowed in some locations
+993,Kappock St & Independence Ave,0,Adults not allowed in some locations
+994,30 Ave. bet. 29 St. and 30 St.,4,Adults Allowed
+995,Broadway and Woodside Ave. bet. 77 St. and 79 St.,4,Adults Allowed
+996,Surf Ave. between W. 25 St. and W. 27 St.,4,Adults Allowed
+997,Hollis Ave. bet. 204 St. and 205 St.,4,Adults Allowed
+998,Rogers Pl. at Dawson St.,4,Adults Allowed
+999,173 St & 106 Ave,0,Adults Allowed
+1000,Linwood St. bet. New Lots Ave. and Hegeman Ave.,0,Adults Allowed
+1001,166 St. bet. 16 Ave. and 16 Rd.,4,Adults Allowed
+1002,Mace Ave. bet. Lodovick Ave. and Gunther Ave.,3,Adults Allowed
+1003,"Dean St., Bergen St. bet. Rockaway Ave.and Hopkinson Ave.",0,Adults Allowed
+1004,"Lee Ave., Division Ave., Roebling St.",0,Adults Allowed
+1005,"Tompkins Ave., Broad St. and Hill St.",0,Unknown
+1006,"109 St., 111 St. bet. 46 Ave. and 47 Ave.",4,Adults Allowed
+1007,"1 Ave., bet. E. 67 St. To E. 68 St.",4,Adults Allowed
+1008,157 St & 116 Ave,0,Unknown
+1009,Fulton Av to Franklin Av bet. E 167 St and E 166 St,4,Adults not allowed in some locations
+1010,Montgomery St. between Franklin Ave. and McKeever Pl.,0,Adults Allowed
+1011,Behind Tennis Center,0,Unknown
+1012,"Essex St., Norfolk St. and Houston St.",2,Adults not allowed in some locations
+1013,S. Oxford St. bet. Commos and Atlantic Ave.,4,Adults not allowed in some locations
+1014,"W 112-113 Sts, Riverside Dr",3,Unknown
+1015,"30 Ave., 25 Ave. bet. 84 St. and 85 St.",0,Adults Allowed
+1016,"Fulton Ave, E 173 - E 174 Sts",4,Adults Allowed
+1017,Amsterdam Ave. bet. W. 136 St. and W. 138 St.,2,Adults Allowed
+1018,85 Ave & 165 St,4,Adults not allowed in some locations
+1019,Laurel Hill Blvd. bet. 61 St. and 64 St.,0,Adults Allowed
+1020,"46 Ave., 46 Rd. bet. Oceania St. and 211 St.",2,Adults Allowed
+1021,N/o W 172 St By Pool,4,Adults not allowed in some locations
+1022,"Crotona N Bet Waterloo, Marmion",2,Adults not allowed in some locations
+1023,"Borinquen Pl., Rodney St. and S. 1 St.",4,Unknown
+1024,Ely & Burke Aves,4,Adults not allowed in some locations
+1025,Lafayette Ave. bet. Malcolm X Blvd. and Patch Ave.,4,Adults Allowed
+1026,Surf Ave & 5 St,4,Adults not allowed in some locations

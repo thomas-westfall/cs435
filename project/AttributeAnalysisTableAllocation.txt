@@ -1,0 +1,53 @@
+Name,String up to 30 Characters, varchar(30), Playgrounds
+Location,String up to 100 Characters, varchar(100), Playgrounds
+Borough, 1 Character describing borough, varchar(1), Playgrounds
+EditDate, Date and time the place was last edited, datetime, Playgrounds
+point, pair of latitude and longitude values, point, Playgrounds
+isOpen, Boolean (True for open, False for closed), bit, Playgrounds
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), Playgrounds
+AccessibilityLevel, int from 0 to 4 (0 being n/a), int, Playgrounds
+Rules, string up to 15 characters(3 choices: (unknown, adults allowed, adults not allowed)), int, Playgrounds
+
+Name,String up to 30 Characters, varchar(30), ExerciseEquipment
+Location,String up to 100 Characters, varchar(100), ExerciseEquipment
+Borough, 1 Character describing borough, varchar(1), ExerciseEquipment
+EditDate, Date and time the place was last edited, datetime, ExerciseEquipment
+point, pair of latitude and longitude values, point, ExerciseEquipment
+isOpen, Boolean (True for open, False for closed), bit, ExerciseEquipment
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), ExerciseEquipment
+PropName, String up to 30 characters, varchar(30), ExerciseEquipment
+SubPropName, String up to 30 characters, varchar(30), ExerciseEquipment
+
+Name,String up to 30 Characters, varchar(30), SkateParks
+Location,String up to 100 Characters, varchar(100), SkateParks
+Borough, 1 Character describing borough, varchar(1), SkateParks
+EditDate, Date and time the place was last edited, datetime, SkateParks
+polygon, list of latitude and longitude pairs, polygon, SkateParks
+isOpen, Boolean (True for open, False for closed), bit, SkateParks
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), SkateParks
+PropName, String up to 30 characters, varchar(30), SkateParks
+SubPropName, String up to 30 characters, varchar(30), SkateParks
+
+Name,String up to 30 Characters, varchar(30), DogRuns
+Location,String up to 100 Characters, varchar(100), DogRuns
+Borough, 1 Character describing borough, varchar(1), DogRuns
+EditDate, Date and time the place was last edited, datetime, DogRuns
+polygon, list of latitude and longitude pairs, polygon, DogRuns
+isOpen, Boolean (True for open, False for closed), bit, DogRuns
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), DogRuns
+PropName, String up to 30 characters, varchar(30), DogRuns
+SubPropName, String up to 30 characters, varchar(30), DogRuns
+
+Name,String up to 30 Characters, varchar(30), AthleticFacilities
+Location,String up to 100 Characters, varchar(100), AthleticFacilities
+Borough, 1 Character describing borough, varchar(1), AthleticFacilities
+EditDate, Date and time the place was last edited, datetime, AthleticFacilities
+polygon, list of latitude and longitude pairs, polygon, AthleticFacilities
+isOpen, Boolean (True for open, False for closed), bit, AthleticFacilities
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), AthleticFacilities
+PropName, String up to 30 characters, varchar(30), AthleticFacilities
+SubPropName, String up to 30 characters, varchar(30), AthleticFacilities
+PrimarySport, String up to 10 characters, varchar(15), AthleticFacilities
+FieldNumber, positive integer, int, AthleticFacilities
+NetsRemoved, boolean determining whether or not a facility’s nets, rims, goals, etc have been removed or not (True = removed, False = not removed), bit, AthleticFacilities
+SurfaceType, String up to 15 characters, varchar(15), AthleticFacilities

@@ -1,0 +1,63 @@
+place_id, positive integer, int (primary key, foreign key), N/A, Playgrounds
+Name,String up to 30 Characters, varchar(30), Playgrounds, Places
+Location,String up to 100 Characters, varchar(100), Playgrounds, Places
+Borough, 1 Character describing borough, varchar(1), Playgrounds, Places
+EditDate, Date and time the place was last edited, datetime, Playgrounds, Places
+Latitude, decimal, decimal(17,15), N/A, Places
+Places, Longitude, decimal, decimal(17,15), N/A, Places
+Status, string up to 25 characters describing closure status, varchar(25), N/A, Places
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), Playgrounds, Places
+AccessibilityLevel, int from 0 to 4 (0 being n/a), int, Playgrounds, Playgrounds
+Rules, string up to 15 characters(3 choices: (unknown, adults allowed, adults not allowed)), int, Playgrounds, Playgrounds
+
+place_id, positive integer, int (primary key, foreign key), N/A, ExerciseEquipment, Places
+Name,String up to 30 Characters, varchar(30), ExerciseEquipment, Places
+Location,String up to 100 Characters, varchar(100), ExerciseEquipment, Places
+Borough, 1 Character describing borough, varchar(1), ExerciseEquipment, Places
+EditDate, Date and time the place was last edited, datetime, ExerciseEquipment, Places
+Latitude, decimal, decimal(17,15), N/A, Places
+Places, Longitude, decimal, decimal(17,15), N/A, Places
+Status, string up to 25 characters describing closure status, varchar(25), N/A, Places
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), ExerciseEquipment, Places
+PropName, String up to 30 characters, varchar(30), ExerciseEquipment, ExerciseEquipment
+SubPropName, String up to 30 characters, varchar(30), ExerciseEquipment, ExerciseEquipment
+
+place_id, positive integer, int (primary key, foreign key), N/A, SkateParks
+Name,String up to 30 Characters, varchar(30), SkateParks, Places
+Location,String up to 100 Characters, varchar(100), SkateParks, Places
+Borough, 1 Character describing borough, varchar(1), SkateParks, Places
+EditDate, Date and time the place was last edited, datetime, SkateParks, Places
+Latitude, decimal, decimal(17,15), N/A, Places
+Places, Longitude, decimal, decimal(17,15), N/A, Places
+Status, string up to 25 characters describing closure status, varchar(25), N/A, Places
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), SkateParks, Places
+PropName, String up to 30 characters, varchar(30), SkateParks, SkateParks
+SubPropName, String up to 30 characters, varchar(30), SkateParks, SkateParks
+
+place_id, positive integer, int (primary key, foreign key), N/A, DogRuns
+Name,String up to 30 Characters, varchar(30), DogRuns, Places
+Location,String up to 100 Characters, varchar(100), DogRuns, Places
+Borough, 1 Character describing borough, varchar(1), DogRuns, Places
+EditDate, Date and time the place was last edited, datetime, DogRuns, Places
+Latitude, decimal, decimal(17,15), N/A, Places
+Places, Longitude, decimal, decimal(17,15), N/A, Places
+Status, string up to 25 characters describing closure status, varchar(25), N/A, Places
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), DogRuns, Places
+PropName, String up to 30 characters, varchar(30), DogRuns, DogRuns
+SubPropName, String up to 30 characters, varchar(30), DogRuns, DogRuns
+
+place_id, positive integer, int (primary key, foreign key), N/A, AthleticFacilities
+Name,String up to 30 Characters, varchar(30), AthleticFacilities, Places
+Location,String up to 100 Characters, varchar(100), AthleticFacilities, Places
+Borough, 1 Character describing borough, varchar(1), AthleticFacilities, Places
+EditDate, Date and time the place was last edited, datetime, AthleticFacilities, Places
+Latitude, decimal, decimal(17,15), N/A, Places
+Places, Longitude, decimal, decimal(17,15), N/A, Places
+Status, string up to 25 characters describing closure status, varchar(25), N/A, Places
+ClosureType, string up to 30 characters describing if/how it’s closed (i.e with tape, barricade, etc), varchar(30), AthleticFacilities, Places
+PropName, String up to 30 characters, varchar(30), AthleticFacilities, AthleticFacilities
+SubPropName, String up to 30 characters, varchar(30), AthleticFacilities, AthleticFacilities
+PrimarySport, String up to 10 characters, varchar(15), AthleticFacilities, AthleticFacilities
+FieldNumber, positive integer, int, AthleticFacilities, AthleticFacilities
+NetsRemoved, boolean determining whether or not a facility’s nets, rims, goals, etc have been removed or not (True = removed, False = not removed), bit, AthleticFacilities, AthleticFacilities
+SurfaceType, String up to 15 characters, varchar(15), AthleticFacilities, AthleticFacilities

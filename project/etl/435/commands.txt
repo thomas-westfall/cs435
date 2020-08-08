@@ -1,0 +1,15 @@
+#individual table commands
+python3 etlaf1.py
+python3 etldr1.py
+python3 etlee1.py
+python3 etlpg1.py
+python3 etlsp1.py
+
+#places csv commands
+python3 etlaf2.py
+python3 etldr2.py
+python3 etlee2.py
+python3 etlpg2.py
+python3 etlsp2.py
+
+python3 places.py

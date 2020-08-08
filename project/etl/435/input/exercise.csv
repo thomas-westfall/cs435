@@ -1,0 +1,227 @@
+﻿Borough,ClosureType,EditDate,FeatureType,PropID,PropName,PropNum,SiteName,Status,point,Zip Codes,Community Districts,Borough Boundaries,City Council Districts,Police Precincts
+Q,Completely Locked,04/11/2020 06:48:43 PM,Exercise Equipment,Q414,Rocket Playground,Q414,Rocket Playground,COVID-19 Closure,POINT (-73.84627851240839 40.6706678178842),"24,013",62,3,41,64
+M,,04/10/2020 12:10:07 PM,Exercise Equipment,M071-ZN20,Riverside Park,M071,Hudson Beach Volleyball Courts & Café,Active,POINT (-73.9723088812383 40.80261866543613),"12,421",20,4,19,15
+Q,Temporary Fencing,04/11/2020 06:19:08 PM,Exercise Equipment,Q102-02,Juniper Valley Park,Q102,Juniper North Playground Tennis,COVID-19 Closure,POINT (-73.87709582234879 40.720654869485145),"15,309",54,3,34,62
+M,Temporary Fencing,04/15/2020 04:27:33 PM,Exercise Equipment,M198,"Martin Luther King, Jr. Playground",M198,"Martin Luther King, Jr. Playground",COVID-19 Closure,POINT (-73.95046394642269 40.799834073707714),"12,423",18,4,36,18
+Q,,04/09/2020 03:18:23 PM,Exercise Equipment,Q162J01,Beach 9 Playground,Q162J01,Beach 9 Playground,Active,POINT (-73.7450264620596 40.5952950243855),"20,529",51,3,47,59
+B,Completely Locked,04/10/2020 01:01:19 PM,Exercise Equipment,B267,Winthrop Playground,B267,Winthrop Playground,COVID-19 Closure,POINT (-73.95436927754135 40.656569624722536),"13,509",17,2,11,44
+Q,,04/11/2020 06:25:58 PM,Exercise Equipment,Q015-ZN04,Forest Park,Q015,Victory Field,Active,POINT (-73.85339787369941 40.70146025735233),"24,017",38,3,34,60
+B,Completely Locked,04/10/2020 12:32:14 PM,Exercise Equipment,B050,Van Voorhees Playground,B050,Van Voorhees Playground,COVID-19 Closure,POINT (-73.99932162436835 40.69031144424675),"16,865",14,2,27,48
+X,,04/14/2020 12:10:33 PM,Exercise Equipment,X307,Barretto Point Park,X307,Barretto Point Park,COVID-19 Closure,POINT (-73.8883643806014 40.805000946999165),"12,343",8,5,43,24
+Q,Completely Locked,04/11/2020 06:54:38 PM,Exercise Equipment,Q005-01,Baisley Pond Park,Q005,Sutphin Playground,COVID-19 Closure,POINT (-73.789076327717 40.67475332511123),"24,669",41,3,46,71
+B,Taped Off,04/10/2020 12:37:24 PM,Exercise Equipment,B087,Sunset Park,B087,Sunset Park,COVID-19 Closure,POINT (-74.00374340596935 40.64797630201613),,9,2,7,45
+X,Completely Locked,04/10/2020 10:07:22 AM,Exercise Equipment,X216,Abigail Playground,X216,Abigail Playground,COVID-19 Closure,POINT (-73.90464194387371 40.81731386925282),"10,933",49,5,43,23
+R,,04/09/2020 03:20:54 PM,Exercise Equipment,R106-ZN03,Bloomingdale Park,R106,Bloomingdale Park Zone 3,Active,POINT (-74.2094651280486 40.53302586858849),"10,696",15,1,9,77
+M,,04/13/2020 01:10:34 PM,Exercise Equipment,M047,Thomas Jefferson Park,M047,Thomas Jefferson Park,Active,POINT (-73.93559005057931 40.793202427096176),"12,426",7,4,35,14
+B,Completely Locked,04/10/2020 05:03:14 PM,Exercise Equipment,B387,Hilltop Playground,B387,Hilltop Playground,COVID-19 Closure,POINT (-73.91433859819634 40.67532564231405),"13,516",55,2,17,46
+B,Completely Locked,04/10/2020 12:57:41 PM,Exercise Equipment,B254,Wingate Park,B254,Wingate Park,COVID-19 Closure,POINT (-73.94419925957446 40.65856952010346),"16,866",17,2,11,44
+B,Temporary Fencing,05/08/2020 04:10:04 PM,Exercise Equipment,B169-ZN04B,Coney Island Beach & Boardwalk,B169,Coney Island Beach Zone 4b,COVID-19 Closure,POINT (-73.97612258859823 40.57282965851369),"18,184",21,2,45,35
+X,Temporary Fencing,04/09/2020 03:49:04 PM,Exercise Equipment,X030-ZN01,Macombs Dam Park,X030,Macombs Dam Park Zone 1 Upper,COVID-19 Closure,POINT (-73.9293295606938 40.82796512810488),"10,929",50,5,35,27
+X,,04/09/2020 03:24:38 PM,Exercise Equipment,X126-ZN04,Ferry Point Park,X126,Ferry Point Park Zone 4,Active,POINT (-73.8257334075983 40.819745433218365),"11,274",43,5,12,28
+X,Temporary Fencing,04/10/2020 10:05:52 AM,Exercise Equipment,X045-03,St. Mary's Park,X045,St Mary's Playground West,COVID-19 Closure,POINT (-73.91325758564736 40.812796199974876),"10,933",49,5,35,23
+X,Completely Locked,04/10/2020 02:22:42 PM,Exercise Equipment,X123,Noble Playground,X123,Noble Playground,COVID-19 Closure,POINT (-73.87225180093814 40.83730964780272),"11,269",58,5,31,26
+X,Temporary Fencing,04/13/2020 12:05:26 PM,Exercise Equipment,X001-01,Aqueduct Walk,X001,Aqueduct Lands Plgd,COVID-19 Closure,POINT (-73.90858175040887 40.85769666481753),"10,931",6,5,29,29
+X,Partially Locked,04/10/2020 10:08:34 AM,Exercise Equipment,X194,Captain Rivera Playground,X194,Captain Rivera Playground,COVID-19 Closure,POINT (-73.90693259459749 40.81793426718316),"10,933",49,5,43,23
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B192,Russell Pedersen Playground,B192,Russell Pedersen Playground,Active,POINT (-74.03618079563667 40.62638149625277),"17,216",10,2,44,41
+Q,Partially Locked,04/13/2020 09:15:26 AM,Exercise Equipment,Q026,Park Of The Americas,Q026,Park Of The Americas,COVID-19 Closure,POINT (-73.86192271977383 40.74856510690505),"14,510",66,3,21,68
+M,Blocked with Barricade,04/10/2020 11:54:48 AM,Exercise Equipment,M289,East River Esplanade,M289,East River Esplanade,COVID-19 Closure,POINT (-73.96968476295301 40.745868827524944),"12,078",71,4,51,9
+B,Completely Locked,04/10/2020 12:36:38 PM,Exercise Equipment,B126-01,Red Hook Recreation Area,B126,Bush Clinton Park,Active,POINT (-74.00341580316581 40.6737079062648),"13,514",14,2,7,48
+B,Completely Locked,04/10/2020 04:46:57 PM,Exercise Equipment,B352,Curtis Playground,B352,Curtis Playground,COVID-19 Closure,POINT (-73.91741522757015 40.640952081836495),"13,827",5,2,8,42
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B151,Dome Playground,B151,Dome Playground,Active,POINT (-73.98019420844595 40.63820669295218),"17,620",2,2,27,39
+X,Completely Locked,04/16/2020 10:43:03 AM,Exercise Equipment,X148A2,Plimpton Playground,X148A2,Plimpton Playground,COVID-19 Closure,POINT (-73.92241783997181 40.843925331865094),"10,930",50,5,42,27
+X,Temporary Fencing,04/15/2020 10:11:38 AM,Exercise Equipment,X010-06,Crotona Park,X010,Boxcar Plgd (6),COVID-19 Closure,POINT (-73.8927296175328 40.8369477993808),,34,5,43,25
+Q,Completely Locked,04/11/2020 05:53:10 PM,Exercise Equipment,Q131,Frank Principe Park,Q131,Frank Principe Park,COVID-19 Closure,POINT (-73.90473912871441 40.72746741591657),"14,788",54,3,34,62
+B,Completely Locked,05/21/2020 11:52:22 AM,Exercise Equipment,B429,Hope Ballfield,B429,Hope Ballfield,COVID-19 Closure,POINT (-73.91713545206649 40.69748404677454),"13,828",42,2,37,53
+R,Completely Locked,04/09/2020 03:20:54 PM,Exercise Equipment,R090,Lieutenant John H. Martinson Playground,R090,Lieutenant John H. Martinson Playground,COVID-19 Closure,POINT (-74.16264451633752 40.536862934021656),"10,699",15,1,9,77
+Q,Completely Locked,04/11/2020 06:19:53 PM,Exercise Equipment,Q335,Russell Sage Playground,Q335,Russell Sage Playground,COVID-19 Closure,POINT (-73.85147543218127 40.723774979073774),"14,786",40,3,28,70
+X,Blocked with Barricade,04/16/2020 11:49:39 AM,Exercise Equipment,X111,Cedar Playground,X111,Cedar Playground,COVID-19 Closure,POINT (-73.91738859057573 40.855122235735955),"10,931",6,5,42,29
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B051,Kelly Park Playground,B051,Kelly Park Playground,Active,POINT (-73.95764201145822 40.60417856226807),"13,512",32,2,15,36
+B,Completely Locked,04/10/2020 11:37:33 AM,Exercise Equipment,B286,Bartlett Playground,B286,Bartlett Playground,COVID-19 Closure,POINT (-73.94609574490927 40.70090041528183),"17,213",36,2,38,56
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B223DA,Adam Yauch Park,B223DA,Adam Yauch Park,Active,POINT (-73.99914590630208 40.69209837983133),"16,865",68,2,38,54
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B057-ZN02,Marine Park,B057,Marine Park Zone 2,Active,POINT (-73.93246441046279 40.60576617755164),"13,512",5,2,8,38
+Q,Blocked with Barricade,04/11/2020 06:51:12 PM,Exercise Equipment,Q092,Police Officer Edward Byrne Park,Q092,Police Officer Edward Byrne Park,COVID-19 Closure,POINT (-73.80744201010107 40.667339200754526),"24,016",62,3,46,64
+Q,,04/13/2020 03:34:44 PM,Exercise Equipment,Q004-ZN01,Astoria Park,Q004,Astoria Park Zone 1,COVID-19 Closure,POINT (-73.9250723759056 40.77673004027609),"16,859",39,3,4,72
+Q,,04/11/2020 01:19:59 PM,Exercise Equipment,Q215,Whitey Ford Field,Q215,Whitey Ford Field,Active,POINT (-73.93483559589428 40.777646960436236),,39,3,4,72
+M,Completely Locked,04/10/2020 12:53:35 PM,Exercise Equipment,M037-04,Highbridge Park,M037,Wallenberg Plgd,COVID-19 Closure,POINT (-73.9268989214219 40.85291295605653),"13,091",47,4,39,22
+R,,04/09/2020 03:20:54 PM,Exercise Equipment,R005-ZN04,Clove Lakes Park,R005,Clove Lakes Park Zone 4,Active,POINT (-74.12071163775693 40.62469636799956),"10,697",4,1,13,74
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B018-01,Canarsie Park,B018,Dinapoli Plgd,Active,POINT (-73.89299093014267 40.63082565366608),"13,827",5,2,8,42
+M,,04/14/2020 03:44:11 PM,Exercise Equipment,M164,Asser Levy Playground,M164,Asser Levy Playground,Active,POINT (-73.97561547247632 40.73644242592239),"12,073",71,4,51,7
+Q,,04/09/2020 03:18:23 PM,Exercise Equipment,Q162J,Beach 17 Playground,Q162J,Beach 17 Playground,Active,POINT (-73.74880446851114 40.59448974090656),"20,529",51,3,47,59
+M,Completely Locked,04/13/2020 01:15:20 PM,Exercise Equipment,M160,Fred Samuel Playground,M160,Fred Samuel Playground,COVID-19 Closure,POINT (-73.93923671753906 40.81715574647379),"12,427",18,4,36,20
+Q,Completely Locked,04/11/2020 05:27:28 PM,Exercise Equipment,Q014,Astoria Heights Playground,Q014,Astoria Heights Playground,COVID-19 Closure,POINT (-73.91174252356157 40.76042085301537),"16,860",39,3,4,72
+M,Completely Locked,04/15/2020 04:21:20 PM,Exercise Equipment,M229,Happy Warrior Playground,M229,Happy Warrior Playground,COVID-19 Closure,POINT (-73.96864303105511 40.795476652982714),"12,422",20,4,23,15
+Q,Completely Locked,04/11/2020 05:56:09 PM,Exercise Equipment,Q366,Louis C. Moser Playground,Q366,Louis C. Moser Playground,COVID-19 Closure,POINT (-73.89223437689381 40.76310686180756),"14,781",65,3,4,73
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B066-01,Owl's Head Park,B066,Owls Head Park,Active,POINT (-74.03013614141982 40.640347469698526),"18,180",10,2,44,41
+X,Partially Locked,04/10/2020 03:10:19 PM,Exercise Equipment,X262,Harding Park,X262,Harding Park,COVID-19 Closure,POINT (-73.85660599548011 40.80930852852364),"11,611",58,5,31,26
+R,,04/09/2020 03:20:54 PM,Exercise Equipment,R031-ZN02,Wolfe's Pond Park,R031,Wolfe's Pond Park Zone 2,Active,POINT (-74.19113396420104 40.517857122286884),"10,699",15,1,9,77
+Q,Temporary Fencing,04/11/2020 07:33:20 PM,Exercise Equipment,Q008-01,Brookville Park,Q008,Brookville Playground,COVID-19 Closure,POINT (-73.74144047160583 40.663212483148996),"15,313",63,3,47,63
+Q,Completely Locked,04/11/2020 07:28:14 PM,Exercise Equipment,Q211,Maple Playground,Q211,Maple Playground,COVID-19 Closure,POINT (-73.82609147065686 40.75587494967768),"14,190",22,3,3,67
+B,Partially Locked,04/10/2020 12:00:22 PM,Exercise Equipment,B088-02,Herbert Von King Park,B088,Herbert Von King Park,COVID-19 Closure,POINT (-73.94588134503036 40.68952450560375),"18,181",69,2,49,51
+B,Completely Locked,04/10/2020 04:40:02 PM,Exercise Equipment,B018-ZN03,Canarsie Park,B018,Canarsie Park Zone 3,COVID-19 Closure,POINT (-73.89672470658327 40.62566473995163),"13,827",5,2,8,42
+Q,Temporary Fencing,04/11/2020 07:24:07 PM,Exercise Equipment,Q099-20,Flushing Meadows Corona Park,Q099,Albert H. Mauro Playground,COVID-19 Closure,POINT (-73.82722743008128 40.72336395237862),"14,509",25,3,24,65
+X,Completely Locked,04/10/2020 10:11:34 AM,Exercise Equipment,X113,Hunts Point Playground,X113,Hunts Point Playground,COVID-19 Closure,POINT (-73.88597051944393 40.814136559758325),"12,343",8,5,43,24
+X,Temporary Fencing,04/10/2020 10:05:17 AM,Exercise Equipment,X045-01,St. Mary's Park,X045,St Mary's Playground East,COVID-19 Closure,POINT (-73.9104894866682 40.8102807321832),"10,933",49,5,35,23
+B,Completely Locked,04/10/2020 12:27:53 PM,Exercise Equipment,B298,Stockton Playground,B298,Stockton Playground,COVID-19 Closure,POINT (-73.94867376733984 40.697283737702975),"17,213",69,2,49,51
+Q,Temporary Fencing,04/11/2020 07:32:19 PM,Exercise Equipment,Q413,Rochdale Park,Q413,Rochdale Park,COVID-19 Closure,POINT (-73.77442324137397 40.67467071888909),"24,669",41,3,46,71
+B,Completely Locked,05/21/2020 01:03:15 PM,Exercise Equipment,B141,City Line Park,B141,City Line Park,COVID-19 Closure,POINT (-73.87492274042454 40.67948179994448),"17,215",45,2,37,47
+X,Completely Locked,04/10/2020 10:08:57 AM,Exercise Equipment,X146,Flynn Playground,X146,Flynn Playground,COVID-19 Closure,POINT (-73.91193278875865 40.82104461502767),"10,929",49,5,43,23
+M,Completely Locked,04/10/2020 11:53:33 AM,Exercise Equipment,M079,St. Catherine's Park,M079,St. Catherine's Park,COVID-19 Closure,POINT (-73.9587213697007 40.76519440893391),"10,090",23,4,1,11
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B285,Harry Maze Playground,B285,Harry Maze Playground,Active,POINT (-73.92317587764559 40.64341783868127),"16,866",61,2,26,40
+X,Partially Locked,04/10/2020 02:21:53 PM,Exercise Equipment,X088-ZN02,Pugsley Creek Park,X088,Pugsley Creek Park Zone 2,COVID-19 Closure,POINT (-73.85224766433613 40.812510682421184),"11,611",58,5,31,26
+Q,Temporary Fencing,04/11/2020 07:13:14 PM,Exercise Equipment,Q133,Pat Williams Playground,Q133,Pat Williams Playground,COVID-19 Closure,POINT (-73.72951806876853 40.713035339280125),"24,338",63,3,6,63
+B,Completely Locked,04/10/2020 12:35:58 PM,Exercise Equipment,B118A,St. Mary's Park,B118A,St. Mary's Park,COVID-19 Closure,POINT (-73.99721990515255 40.67643122626661),"13,514",14,2,27,48
+Q,Completely Locked,04/11/2020 06:07:48 PM,Exercise Equipment,Q450,Corona Golf Playground,Q450,Corona Golf Playground,COVID-19 Closure,POINT (-73.85461130347079 40.747582381480434),"14,510",66,3,21,68
+Q,Temporary Fencing,04/11/2020 07:34:27 PM,Exercise Equipment,Q108,Laurelton Playground,Q108,Laurelton Playground,COVID-19 Closure,POINT (-73.73653220733861 40.67000054576685),"24,018",63,3,47,63
+B,Completely Locked,04/10/2020 04:00:19 PM,Exercise Equipment,B007-01,Bensonhurst Park,B007,Bensonhurst Park Playground,COVID-19 Closure,POINT (-73.99981329076745 40.59692354879053),"17,616",1,2,44,37
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B357,Jackie Robinson Playground,B357,Jackie Robinson Playground,Active,POINT (-73.95923738577667 40.665790351540096),"13,509",17,2,48,44
+X,Completely Locked,04/10/2020 10:06:44 AM,Exercise Equipment,X238,Saw Mill Playground,X238,Saw Mill Playground,COVID-19 Closure,POINT (-73.91937329426234 40.8089131054485),"10,932",49,5,35,23
+B,Completely Locked,04/10/2020 05:01:54 PM,Exercise Equipment,B156,Powell Playground,B156,Powell Playground,COVID-19 Closure,POINT (-73.90482748554766 40.671272940120616),"17,614",55,2,37,46
+R,,04/09/2020 03:20:54 PM,Exercise Equipment,R125,Lopez Playground,R125,Lopez Playground,Active,POINT (-74.08505419557865 40.611486668526425),"10,691",4,1,13,74
+B,Completely Locked,04/10/2020 05:02:51 PM,Exercise Equipment,B270,Brownsville Playground,B270,Brownsville Playground,COVID-19 Closure,POINT (-73.90222157209897 40.6565247021916),"17,614",55,2,25,46
+M,Completely Locked,04/13/2020 01:11:33 PM,Exercise Equipment,M058-01,Marcus Garvey Park,M058,Mt. Morris East,COVID-19 Closure,POINT (-73.94309751628622 40.80332603307183),"13,093",7,4,36,16
+Q,Completely Locked,04/11/2020 05:45:13 PM,Exercise Equipment,Q031,Lawrence Virgilio Playground,Q031,Lawrence Virgilio Playground,COVID-19 Closure,POINT (-73.91074722015503 40.74747006904619),"14,787",53,3,33,66
+M,,04/10/2020 11:50:49 AM,Exercise Equipment,M391-ZN02,East River Waterfront Esplanade,M391,East River Waterfront Esplanade Zone 2,Active,POINT (-73.99357061521128 40.70911682778208),,,,,
+B,Completely Locked,04/10/2020 03:59:47 PM,Exercise Equipment,B007,Bensonhurst Park,B007,Bensonhurst Park,COVID-19 Closure,POINT (-74.00130226448023 40.59651285644902),"17,616",1,2,44,37
+Q,Temporary Fencing,04/11/2020 05:52:31 PM,Exercise Equipment,Q360M,Frontera Park,Q360M,Frontera Park,COVID-19 Closure,POINT (-73.8953707957513 40.72467606207501),"14,788",54,3,34,62
+B,Completely Locked,04/10/2020 12:28:30 PM,Exercise Equipment,B139,Heckscher Playground,B139,Heckscher Playground,COVID-19 Closure,POINT (-73.91826823544291 40.69511490673364),"18,181",42,2,37,53
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B057-ZN01,Marine Park,B057,Marine Park Zone 1,Active,POINT (-73.93641201272325 40.60825051984852),"13,512",5,2,8,38
+Q,Blocked with Barricade,04/11/2020 07:00:39 PM,Exercise Equipment,Q127,Marconi Park,Q127,Marconi Park,COVID-19 Closure,POINT (-73.79553022951403 40.693586890964376),"24,668",41,3,46,61
+B,Partially Locked,04/10/2020 12:12:19 PM,Exercise Equipment,B258,Brevoort Playground,B258,Brevoort Playground,COVID-19 Closure,POINT (-73.92276101480839 40.68047022118154),"13,516",69,2,17,52
+X,Completely Locked,04/20/2020 10:59:12 AM,Exercise Equipment,X204,Story Playground,X204,Story Playground,COVID-19 Closure,POINT (-73.86284389189733 40.82291343540242),"11,611",58,5,31,26
+M,Temporary Fencing,04/13/2020 01:14:45 PM,Exercise Equipment,M186,Col. Young Playground,M186,Col. Young Playground,COVID-19 Closure,POINT (-73.93553958259542 40.81921072018359),"13,097",18,4,36,20
+X,Completely Locked,04/09/2020 03:52:14 PM,Exercise Equipment,X038-02,Washington's Walk,X038,Fort #4 Playground,COVID-19 Closure,POINT (-73.90085322643156 40.874664145208),"11,606",48,5,29,33
+M,Completely Locked,04/10/2020 11:58:12 AM,Exercise Equipment,M144-ZN05,John V. Lindsay East River Park,M144,East River Park Zone 5,COVID-19 Closure,POINT (-73.97359980806098 40.72157405944334),"11,729",70,4,50,5
+Q,Temporary Fencing,04/11/2020 07:29:59 PM,Exercise Equipment,Q381,Francis Lewis Playground,Q381,Francis Lewis Playground,COVID-19 Closure,POINT (-73.78403163148911 40.760436881932804),"14,196",26,3,20,69
+M,Completely Locked,04/09/2020 03:22:58 PM,Exercise Equipment,M200,Booker T. Washington Playground,M200,Booker T. Washington Playground,COVID-19 Closure,POINT (-73.96376749365731 40.80094406070666),"12,422",20,4,23,15
+Q,Completely Locked,04/11/2020 06:47:41 PM,Exercise Equipment,Q094,Tudor Park,Q094,Tudor Park,COVID-19 Closure,POINT (-73.85212938585939 40.672622742221655),"24,013",62,3,41,64
+M,Completely Locked,04/15/2020 04:34:04 PM,Exercise Equipment,M071-04,Riverside Park,M071,Neufeld Playground,COVID-19 Closure,POINT (-73.98473175096778 40.78351537978469),"12,421",20,4,19,12
+B,Completely Locked,04/10/2020 03:53:59 PM,Exercise Equipment,B073-20,Prospect Park,B073,Harmony Playground,COVID-19 Closure,POINT (-73.9769634460577 40.66346528884452),,13,2,27,50
+B,Completely Locked,04/10/2020 04:59:49 PM,Exercise Equipment,B283,Belmont Playground,B283,Belmont Playground,COVID-19 Closure,POINT (-73.86284220864064 40.6754935543911),"17,215",45,2,37,47
+X,,04/09/2020 03:24:38 PM,Exercise Equipment,X092-ZN06,Van Cortlandt Park,X092,Parade Ground North,Active,POINT (-73.89518810082029 40.896698609614894),"11,609",27,5,40,33
+X,Completely Locked,04/16/2020 02:39:15 PM,Exercise Equipment,X085,Slattery Playground,X085,Slattery Playground,COVID-19 Closure,POINT (-73.89848043408138 40.85730590161483),"10,936",6,5,22,29
+M,Completely Locked,04/10/2020 11:55:48 AM,Exercise Equipment,M033,Hamilton Fish Park,M033,Hamilton Fish Park,COVID-19 Closure,POINT (-73.98076555397473 40.71970263826508),"11,723",70,4,50,4
+X,Completely Locked,04/17/2020 01:49:57 PM,Exercise Equipment,X020,Fort Independence Playground,X020,Fort Independence Playground,COVID-19 Closure,POINT (-73.89490717361261 40.881891241268036),"11,272",48,5,40,33
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B296,Luna Playground,B296,Luna Playground,Active,POINT (-73.9784012305104 40.576094881729134),"18,184",21,2,15,35
+Q,Completely Locked,04/11/2020 05:47:53 PM,Exercise Equipment,Q471-01,Hunter's Point South Park,Q471,Hunter's Point South Playground (North),COVID-19 Closure,POINT (-73.96039842397131 40.74296030861428),"16,864",53,3,33,66
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B221,Steuben Playground,B221,Steuben Playground,Active,POINT (-73.96345807759882 40.69744491870467),"17,212",68,2,38,55
+X,Completely Locked,04/10/2020 02:19:45 PM,Exercise Equipment,X169,Agnes Haywood Playground,X169,Agnes Haywood Playground,COVID-19 Closure,POINT (-73.86181381588385 40.88029558916309),"11,605",29,5,2,30
+M,Completely Locked,04/10/2020 11:39:34 AM,Exercise Equipment,M029-01,Fort Tryon Park,M029,Jacob Javits Plgd,COVID-19 Closure,POINT (-73.9344719040704 40.85890697253515),"13,098",47,4,39,22
+B,Completely Locked,04/10/2020 04:59:18 PM,Exercise Equipment,B246,Jerome Playground,B246,Jerome Playground,COVID-19 Closure,POINT (-73.87959078888356 40.65892568763115),"17,214",45,2,25,47
+B,Blocked with Barricade,04/10/2020 04:58:33 PM,Exercise Equipment,B149A,Elton Playground,B149A,Elton Playground,COVID-19 Closure,POINT (-73.88073888137447 40.66593255530792),"17,215",45,2,25,47
+X,Temporary Fencing,04/13/2020 12:01:04 PM,Exercise Equipment,X137,Jerome Park,X137,Jerome Park,COVID-19 Closure,POINT (-73.8919726294351 40.87865445534718),"11,272",48,5,40,33
+X,Temporary Fencing,04/14/2020 11:20:42 AM,Exercise Equipment,X029,Lyons Square Playground,X029,Lyons Square Park,COVID-19 Closure,POINT (-73.88807089854794 40.82277492741909),"10,937",8,5,43,24
+R,Completely Locked,04/09/2020 03:20:54 PM,Exercise Equipment,R035,De Matti Park,R035,De Matti Park,COVID-19 Closure,POINT (-74.07418481018179 40.61453272435435),"10,692",4,1,13,74
+Q,Temporary Fencing,04/11/2020 06:55:10 PM,Exercise Equipment,Q005-12,Baisley Pond Park,Q005,Rockaway Blvd Playground,COVID-19 Closure,POINT (-73.78772129274583 40.6725676125228),"24,669",41,3,46,71
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B073-ZN06,Prospect Park,B073,Prospect Park Southwest Lower,Active,POINT (-73.97272036709187 40.654833000026215),,13,2,27,50
+X,,04/09/2020 03:24:38 PM,Exercise Equipment,X118-ZN03,Soundview Park,X118,Soundview Park Zone 3,Active,POINT (-73.87305103232546 40.818286496286895),"11,611",58,5,31,26
+Q,Temporary Fencing,04/11/2020 05:57:18 PM,Exercise Equipment,Q410,Hinton Park,Q410,Hinton Park,COVID-19 Closure,POINT (-73.85494271577642 40.75601123478801),"14,510",65,3,21,73
+X,Completely Locked,04/10/2020 08:42:34 AM,Exercise Equipment,X206,Morgan Playground,X206,Morgan Playground,COVID-19 Closure,POINT (-73.90743530814089 40.83227429519592),"10,934",34,5,42,25
+R,,04/09/2020 03:20:54 PM,Exercise Equipment,R109-01,CPL. Thompson Park,R109,Corporal Thompson Playground,Active,POINT (-74.11803173698999 40.63892148395194),"10,697",4,1,13,74
+M,,04/09/2020 03:22:58 PM,Exercise Equipment,M042-ZN04,Inwood Hill Park,M042,Inwood Hill Park Zone 4 (Dyckman Fields),Active,POINT (-73.9302748808981 40.87284181527521),"13,092",47,4,39,22
+X,,04/09/2020 03:24:38 PM,Exercise Equipment,X002-ZN03,Bronx Park,X002,Bronx Park Zone 3,Active,POINT (-73.87119701199138 40.87040913182152),"11,607",28,5,22,30
+B,Blocked with Barricade,04/10/2020 05:02:28 PM,Exercise Equipment,B219,Callahan-Kelly Playground,B219,Callahan-Kelly Playground,COVID-19 Closure,POINT (-73.90531416915717 40.678359753394396),"13,516",55,2,37,46
+Q,Completely Locked,04/11/2020 05:46:30 PM,Exercise Equipment,Q205A,Big Bush Playground,Q205A,Big Bush Playground,COVID-19 Closure,POINT (-73.90262797225797 40.7396080387653),"14,787",53,3,33,66
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B316,DiGilio Playground,B316,DiGilio Playground,Active,POINT (-73.9771308362306 40.632628660086475),"17,620",60,2,18,43
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B162,Brizzi Playground,B162,Brizzi Playground,Active,POINT (-73.99464872731261 40.64241752988835),"17,621",2,2,27,39
+B,Completely Locked,04/10/2020 12:01:46 PM,Exercise Equipment,B263,Sumner Playground,B263,Sumner Playground,COVID-19 Closure,POINT (-73.94275920794006 40.69727573052556),"17,213",69,2,49,51
+Q,Temporary Fencing,04/11/2020 07:21:56 PM,Exercise Equipment,Q021-03,Cunningham Park,Q021,210 St Playground,COVID-19 Closure,POINT (-73.76533876072492 40.73925387400779),"14,506",25,3,16,65
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B025,Cooper Park,B025,Cooper Park,Active,POINT (-73.93724000264929 40.71585257942295),"17,613",36,2,30,56
+Q,Temporary Fencing,04/11/2020 07:27:03 PM,Exercise Equipment,Q300-05,Kissena Corridor Park,Q300,Rachel Carson Playground,COVID-19 Closure,POINT (-73.82235858041797 40.749125525041045),"14,190",22,3,3,67
+Q,,04/13/2020 09:15:26 AM,Exercise Equipment,Q361,Moore Homestead Playground,Q361,Moore Homestead Playground,Active,POINT (-73.88239704521078 40.742141940089475),"14,784",66,3,5,68
+X,Completely Locked,04/10/2020 02:14:10 PM,Exercise Equipment,X257,Mount Hope Playground,X257,Mount Hope Playground,COVID-19 Closure,POINT (-73.90943943807447 40.85029833371388),"10,931",6,5,29,29
+X,Temporary Fencing,04/13/2020 01:33:19 PM,Exercise Equipment,X041,Pulaski Park,X041,Pulaski Park,COVID-19 Closure,POINT (-73.92456568539204 40.80524231319071),"10,932",49,5,35,23
+Q,Temporary Fencing,04/11/2020 07:01:26 PM,Exercise Equipment,Q106,Daniel M. O'Connell Playground,Q106,Daniel M. O'Connell Playground,COVID-19 Closure,POINT (-73.75809728732561 40.699867812350114),"15,312",41,3,6,71
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B060-01,McKinley Park,B060,McKinley Park Playground,Active,POINT (-74.01686079218794 40.62638893275471),"13,511",10,2,44,41
+Q,Completely Locked,04/11/2020 06:17:55 PM,Exercise Equipment,Q099-01,Flushing Meadows Corona Park,Q099,World's Fair Playground,COVID-19 Closure,POINT (-73.84590168935051 40.737521484536124),"14,786",40,3,28,70
+M,Completely Locked,04/10/2020 11:56:13 AM,Exercise Equipment,M064,Lillian D Wald Playground,M064,Lillian D Wald Playground,COVID-19 Closure,POINT (-73.98436372971324 40.71204164572226),"11,723",70,4,32,4
+B,Completely Locked,04/10/2020 11:36:06 AM,Exercise Equipment,B055,Sternberg Park,B055,Sternberg Park,COVID-19 Closure,POINT (-73.94724412443163 40.70622664370648),"17,213",36,2,30,56
+Q,Temporary Fencing,04/11/2020 07:06:51 PM,Exercise Equipment,Q134,Breininger Park,Q134,Breininger Park,COVID-19 Closure,POINT (-73.72897475587081 40.725827895761014),"24,335",63,3,16,63
+Q,Temporary Fencing,04/12/2020 05:18:58 PM,Exercise Equipment,Q448-ZN03,Roy Wilkins Recreation Center,Q448,Roy Wilkins Rec Center Zone 3,COVID-19 Closure,POINT (-73.77385916183722 40.68816534920979),"24,669",41,3,6,71
+B,Completely Locked,04/10/2020 05:00:20 PM,Exercise Equipment,B380,Robert E. Venable Park,B380,Robert E. Venable Park,COVID-19 Closure,POINT (-73.86522898889854 40.67442236557769),"17,215",45,2,25,47
+B,Completely Locked,04/10/2020 05:01:31 PM,Exercise Equipment,B110,Marion Hopkinson Playground,B110,Marion Hopkinson Playground,COVID-19 Closure,POINT (-73.91331971321605 40.681781155300754),"13,516",55,2,17,46
+Q,Temporary Fencing,04/12/2020 05:32:17 PM,Exercise Equipment,Q051,St. Albans Park,Q051,St. Albans Park,COVID-19 Closure,POINT (-73.77931569080786 40.69304017537922),"24,669",41,3,6,71
+M,Completely Locked,04/09/2020 03:22:58 PM,Exercise Equipment,M184,Samuel N. Bennerson 2nd Playground,M184,Samuel N. Bennerson 2nd Playground,COVID-19 Closure,POINT (-73.98695384493311 40.77382394258038),"12,420",20,4,19,12
+B,Blocked with Barricade,04/10/2020 05:01:06 PM,Exercise Equipment,B008-03,Betsy Head Park,B008,Imagination Playground at Betsy Head,COVID-19 Closure,POINT (-73.91182793479264 40.66451174662288),"17,614",55,2,17,46
+M,Temporary Fencing,04/13/2020 01:17:18 PM,Exercise Equipment,M111,James Weldon Johnson Playground,M111,James Weldon Johnson Playground,COVID-19 Closure,POINT (-73.94185672170153 40.7971783560792),"12,426",7,4,35,14
+M,,04/15/2020 04:31:07 PM,Exercise Equipment,M099,J. Hood Wright Park,M099,J. Hood Wright Park,Active,POINT (-73.9409453399472 40.84635575138851),"13,091",47,4,39,21
+Q,Completely Locked,04/11/2020 07:22:56 PM,Exercise Equipment,Q314,Fresh Meadows Playground,Q314,Fresh Meadows Playground,COVID-19 Closure,POINT (-73.79618385636533 40.73411680762906),"14,507",25,3,24,65
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B275,Grady Playground,B275,Grady Playground,Active,POINT (-73.96471236516003 40.58305310479648),"13,826",21,2,15,35
+X,Temporary Fencing,04/17/2020 12:35:55 PM,Exercise Equipment,X080-03,Henry Hudson Park,X080,Henry Hudson Playground (West),COVID-19 Closure,POINT (-73.92043903890712 40.88118467901039),"11,272",48,5,40,33
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B295,Oxport Playground,B295,Oxport Playground,Active,POINT (-73.97624385732473 40.69760448528043),"17,212",68,2,48,55
+B,Completely Locked,04/17/2020 10:39:44 AM,Exercise Equipment,B058-ZN02,McCarren Park,B058,McCarren Park Zone 2,COVID-19 Closure,POINT (-73.95139123902742 40.72002512270835),"17,613",36,2,38,57
+Q,,04/11/2020 07:21:17 PM,Exercise Equipment,Q021-ZN02,Cunningham Park,Q021,Cunningham Park Zone 2,Active,POINT (-73.77359003192625 40.729693740059986),"14,508",25,3,16,65
+Q,Completely Locked,04/11/2020 07:14:21 PM,Exercise Equipment,Q001-ZN01,Alley Pond Park,Q001,Alley Pond Park Zone 1,COVID-19 Closure,POINT (-73.73626821207041 40.73949215306537),"24,336",63,3,16,63
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B137,Sixteen Sycamores Playground,B137,Sixteen Sycamores Playground,Active,POINT (-73.9810056827376 40.68679172680519),"17,619",68,2,38,54
+M,,04/09/2020 03:22:58 PM,Exercise Equipment,M042-ZN02,Inwood Hill Park,M042,Inwood Hill Park Zone 2,Active,POINT (-73.92092619021308 40.8735438456456),"13,092",,,,
+X,,04/09/2020 03:24:38 PM,Exercise Equipment,X002-ZN05A,Bronx Park,X002,Bronx River Parkway East (South Half),Active,POINT (-73.86785687192702 40.88135843429829),"11,605",29,5,2,30
+Q,,04/11/2020 05:48:33 PM,Exercise Equipment,Q471-ZN02,Hunter's Point South Park,Q471,Hunter's Point South Park Zone 2,Active,POINT (-73.96159862999801 40.739425621922614),"16,858",53,3,33,66
+X,Completely Locked,04/10/2020 02:23:28 PM,Exercise Equipment,X160,Caserta Playground,X160,Caserta Playground,COVID-19 Closure,POINT (-73.85402945321134 40.837337871100985),"11,271",58,5,31,26
+M,Taped Off,04/10/2020 01:12:14 PM,Exercise Equipment,M011,Chelsea Park,M011,Chelsea Park,COVID-19 Closure,POINT (-74.00072824876388 40.74994165135954),"11,722",12,4,10,6
+Q,Temporary Fencing,04/11/2020 06:46:33 PM,Exercise Equipment,Q128,London Planetree Playground,Q128,London Planetree Playground,COVID-19 Closure,POINT (-73.85324212334196 40.686139829325434),"24,012",46,3,41,60
+X,,04/09/2020 03:24:38 PM,Exercise Equipment,X002-ZN01,Bronx Park,X002,Bronx Park Zone 1,Active,POINT (-73.87018555214237 40.852440598005614),"11,271",28,5,22,32
+Q,Temporary Fencing,04/11/2020 07:27:48 PM,Exercise Equipment,Q437,Murray Hill Playground,Q437,Murray Hill Playground,COVID-19 Closure,POINT (-73.81183043181511 40.76166701382999),"14,190",22,3,3,67
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B106B,Lafayette Playground,B106B,Lafayette Playground,Active,POINT (-73.98528984420022 40.59450882940557),"17,616",21,2,45,35
+B,,04/10/2020 04:00:56 PM,Exercise Equipment,B068,Parade Ground,B068,Parade Ground,Active,POINT (-73.96835365164006 40.65086462836489),"17,620",60,2,11,43
+B,Partially Locked,04/10/2020 11:59:53 AM,Exercise Equipment,B217,Marcy Playground,B217,Marcy Playground,COVID-19 Closure,POINT (-73.95091349362018 40.695521393912465),"17,213",69,2,49,51
+X,Completely Locked,04/10/2020 10:30:15 AM,Exercise Equipment,X174,Webster Playground,X174,Webster Playground,COVID-19 Closure,POINT (-73.89289227408571 40.85938386044433),"10,936",35,5,22,31
+M,Completely Locked,04/09/2020 03:22:58 PM,Exercise Equipment,M238,Bloomingdale Playground,M238,Bloomingdale Playground,COVID-19 Closure,POINT (-73.96600104027476 40.79917221464702),"12,422",20,4,23,15
+X,Completely Locked,04/10/2020 10:29:33 AM,Exercise Equipment,X102,Ciccarone Park,X102,Ciccarone Park,COVID-19 Closure,POINT (-73.8867043823755 40.855966189629186),"10,936",35,5,22,31
+B,Partially Locked,04/10/2020 12:28:55 PM,Exercise Equipment,B381,Thomas Boyland Park,B381,Thomas Boyland Park,COVID-19 Closure,POINT (-73.90754695317372 40.68174274121655),"17,214",42,2,37,53
+X,Completely Locked,04/10/2020 10:12:25 AM,Exercise Equipment,X211,Stebbins Playground,X211,Stebbins Playground,COVID-19 Closure,POINT (-73.89851728719871 40.822767330766645),"10,937",8,5,43,24
+Q,Completely Locked,04/11/2020 07:36:24 PM,Exercise Equipment,Q382,Cardozo Playground,Q382,Cardozo Playground,COVID-19 Closure,POINT (-73.78656811018509 40.59323900596114),"20,530",51,3,47,59
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B252,West Playground,B252,West Playground,Active,POINT (-73.9700708438389 40.58708392303859),"18,183",21,2,45,35
+M,,04/14/2020 03:44:24 PM,Exercise Equipment,M045,John Jay Park,M045,John Jay Park,Active,POINT (-73.94948322669356 40.769238835653574),"10,352",23,4,1,11
+X,Temporary Fencing,04/10/2020 02:45:24 PM,Exercise Equipment,X030,Macombs Dam Park,X030,Macombs Dam Park,COVID-19 Closure,POINT (-73.92816909012869 40.82876353585811),"10,929",50,5,35,27
+Q,Temporary Fencing,04/11/2020 07:31:04 PM,Exercise Equipment,Q105,Howard Von Dohlen Playground,Q105,Howard Von Dohlen Playground,COVID-19 Closure,POINT (-73.81297834293106 40.69944018455653),"24,670",41,3,24,61
+Q,Completely Locked,04/11/2020 05:35:29 PM,Exercise Equipment,Q174A,St. Michael's Playground,Q174A,St. Michael's Playground,COVID-19 Closure,POINT (-73.90015135152188 40.75898091465637),"14,787",39,3,4,72
+B,Blocked with Barricade,04/10/2020 04:57:22 PM,Exercise Equipment,B078,Grace Playground,B078,Grace Playground,COVID-19 Closure,POINT (-73.8944393083876 40.67137474004914),"17,214",45,2,25,47
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B032-ZN01,Fort Greene Park,B032,Fort Greene Park Zone 1,Active,POINT (-73.97571514180618 40.69260838010292),"16,865",68,2,48,55
+Q,Completely Locked,04/11/2020 05:51:27 PM,Exercise Equipment,Q098,Frank D. O'Connor Playground,Q098,Frank D. O'Connor Playground,COVID-19 Closure,POINT (-73.88672297251821 40.744247034275055),"14,784",66,3,5,68
+X,Temporary Fencing,04/10/2020 02:15:16 PM,Exercise Equipment,X039-ZN01,Pelham Bay Park,X039,Aileen Ryan Rec. Complex,COVID-19 Closure,POINT (-73.82354955599097 40.848386686650926),"12,344",44,5,12,28
+X,Partially Locked,04/20/2020 12:02:40 PM,Exercise Equipment,X122,Colucci Playground,X122,Colucci Playground,COVID-19 Closure,POINT (-73.83458247992017 40.8527786197788),"11,270",43,5,12,28
+B,Completely Locked,04/10/2020 04:48:06 PM,Exercise Equipment,B337,Century Playground,B337,Century Playground,COVID-19 Closure,POINT (-73.97039455950755 40.577017897150675),"18,184",21,2,15,35
+B,Completely Locked,04/10/2020 11:36:56 AM,Exercise Equipment,B167,La Guardia Playground,B167,La Guardia Playground,COVID-19 Closure,POINT (-73.95974822474739 40.71045464988789),"17,613",36,2,30,56
+R,,04/09/2020 03:20:54 PM,Exercise Equipment,R109,CPL. Thompson Park,R109,CPL. Thompson Park,Active,POINT (-74.11885101101721 40.638064075849634),"10,697",4,1,13,74
+Q,Temporary Fencing,04/11/2020 06:23:14 PM,Exercise Equipment,Q020-01,Highland Park,Q020,Lower Highland Playground,COVID-19 Closure,POINT (-73.88573854218654 40.68396081226198),"17,215",45,2,37,47
+B,Completely Locked,04/10/2020 12:26:31 PM,Exercise Equipment,B266,Star Spangled Playground,B266,Star Spangled Playground,COVID-19 Closure,POINT (-73.95795318223661 40.69189603258584),"17,212",69,2,38,51
+M,Blocked with Barricade,04/10/2020 11:46:54 AM,Exercise Equipment,M071-34,Riverside Park,M071,Tot Lot One Hundred Five,COVID-19 Closure,POINT (-73.97095004711657 40.80175743965775),"12,421",20,4,19,15
+X,Temporary Fencing,04/10/2020 02:22:08 PM,Exercise Equipment,X136-01,Harris Park,X136,Harris Playground,COVID-19 Closure,POINT (-73.89239092602459 40.87512695638039),"11,606",24,5,40,34
+X,Completely Locked,04/10/2020 02:15:47 PM,Exercise Equipment,X253,Ambrosini Field,X253,Ambrosini Field,COVID-19 Closure,POINT (-73.78339296334069 40.84450088586157),"11,273",43,5,12,28
+Q,Blocked with Barricade,04/11/2020 07:29:31 PM,Exercise Equipment,Q364,Marie Curie Playground,Q364,Marie Curie Playground,COVID-19 Closure,POINT (-73.77177875021114 40.75693569665498),"14,196",26,3,20,69
+Q,Temporary Fencing,04/11/2020 07:31:40 PM,Exercise Equipment,Q005-05,Baisley Pond Park,Q005,157 St Playground,COVID-19 Closure,POINT (-73.7860883963776 40.68408743516865),"24,669",41,3,46,71
+R,Completely Locked,04/09/2020 03:20:54 PM,Exercise Equipment,R068,The Big Park,R068,The Big Park,COVID-19 Closure,POINT (-74.16451275113033 40.630809575715524),"10,371",4,1,13,75
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B061,McLaughlin Park,B061,McLaughlin Park,Active,POINT (-73.98604714243562 40.696514825066025),"16,865",68,2,38,54
+Q,Completely Locked,04/11/2020 05:39:42 PM,Exercise Equipment,Q298,Paul Raimonda Playground,Q298,Paul Raimonda Playground,COVID-19 Closure,POINT (-73.89744608049097 40.77280249419432),"16,862",39,3,4,72
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B054-ZN01,Lincoln Terrace / Arthur S. Somers Park,B054,Lincoln Terr Pk/Arthur S Somers Zone 1,Active,POINT (-73.92734465085397 40.66591177111679),"17,615",16,2,17,49
+M,Blocked with Barricade,04/10/2020 11:59:36 AM,Exercise Equipment,M010-ZN28,Central Park,M010,Ross Pinetum,COVID-19 Closure,POINT (-73.96808279850276 40.78294918685494),,19,4,19,13
+X,Temporary Fencing,04/10/2020 10:04:46 AM,Exercise Equipment,X045-ZN01,St. Mary's Park,X045,St Mary's Park Zone 1,COVID-19 Closure,POINT (-73.91119885443668 40.810274763845875),"10,933",49,5,35,23
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B274,Bayview Playground,B274,Bayview Playground,Active,POINT (-73.88690984970518 40.63491240831661),"13,827",5,2,8,42
+M,Completely Locked,04/10/2020 02:13:47 PM,Exercise Equipment,M041,Alexander Hamilton Playground,M041,Alexander Hamilton Playground,COVID-19 Closure,POINT (-73.95128561178713 40.823079155068555),"12,428",37,4,23,19
+X,Completely Locked,04/10/2020 10:28:53 AM,Exercise Equipment,X108,Belmont Playground,X108,Belmont Playground,COVID-19 Closure,POINT (-73.8876937082305 40.85028784349431),"10,935",35,5,22,31
+X,Blocked with Barricade,04/10/2020 02:20:41 PM,Exercise Equipment,X002-05A,Bronx Park,X002,Waring Plgd,COVID-19 Closure,POINT (-73.87145330242687 40.8604898319416),"11,607",28,5,22,32
+B,Completely Locked,04/10/2020 03:58:01 PM,Exercise Equipment,B150,Kolbert Playground,B150,Kolbert Playground,COVID-19 Closure,POINT (-73.95800759867898 40.620075588722564),"13,513",60,2,18,43
+B,Completely Locked,04/10/2020 01:00:51 PM,Exercise Equipment,B193,Hamilton Metz Field,B193,Hamilton Metz Field,COVID-19 Closure,POINT (-73.94096520005297 40.6625664067098),"16,866",17,2,17,44
+X,Completely Locked,04/10/2020 02:23:07 PM,Exercise Equipment,X159,Playground 174,X159,Playground 174,COVID-19 Closure,POINT (-73.87776458244035 40.83434856210142),"11,610",58,5,31,26
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B057-ZN03,Marine Park,B057,Marine Park Zone 3,Active,POINT (-73.93544957071985 40.60408041176194),"13,512",5,2,8,38
+Q,Temporary Fencing,04/11/2020 05:56:45 PM,Exercise Equipment,Q085,Gorman Playground,Q085,Gorman Playground,COVID-19 Closure,POINT (-73.88423696233977 40.76238428065752),"14,781",65,3,4,73
+X,Completely Locked,04/10/2020 10:26:39 AM,Exercise Equipment,X353,Yolanda García Park,X353,Yolanda Garcia Park,COVID-19 Closure,POINT (-73.91380830169413 40.82310392036892),"10,929",34,5,43,25
+M,Completely Locked,04/10/2020 11:52:23 AM,Exercise Equipment,M263,Bellevue South Park,M263,Bellevue South Park,COVID-19 Closure,POINT (-73.97805754866744 40.740032558826094),"12,078",71,4,50,7
+M,Completely Locked,04/10/2020 11:57:46 AM,Exercise Equipment,M088,Tompkins Square Park,M088,Tompkins Square Park,COVID-19 Closure,POINT (-73.98171294258619 40.726452065314255),"11,729",70,4,50,5
+Q,Completely Locked,04/11/2020 01:21:47 PM,Exercise Equipment,Q333,Ravenswood Playground,Q333,Ravenswood Playground,COVID-19 Closure,POINT (-73.93534261177533 40.76260794158629),"16,863",39,3,33,72
+B,Completely Locked,04/10/2020 04:06:07 PM,Exercise Equipment,B129-ZN01,Kaiser Park,B129,Kaiser Park Zone 1,COVID-19 Closure,POINT (-73.9946104382313 40.57856097830441),"18,184",21,2,45,35
+Q,Temporary Fencing,04/11/2020 06:56:48 PM,Exercise Equipment,Q129,"Phil ""Scooter"" Rizzuto Park",Q129,"Phil ""Scooter"" Rizzuto Park",COVID-19 Closure,POINT (-73.82158665651203 40.69479295148475),"24,015",46,3,46,60
+M,Completely Locked,04/10/2020 11:57:05 AM,Exercise Equipment,M171,Cherry Clinton Playground,M171,Cherry Clinton Playground,COVID-19 Closure,POINT (-73.98628029521305 40.71131293656163),"11,723",70,4,32,4
+X,,04/09/2020 03:24:38 PM,Exercise Equipment,X002-ZN05B,Bronx Park,X002,Bronx River Parkway East (North Half),Active,POINT (-73.86371190616926 40.89092907333461),"11,605",29,5,2,30
+X,Completely Locked,04/13/2020 02:08:11 PM,Exercise Equipment,X182,Millbrook Playground,X182,Millbrook Playground,COVID-19 Closure,POINT (-73.91664783759326 40.80435409216186),"10,932",49,5,35,23
+B,Completely Locked,04/10/2020 12:27:25 PM,Exercise Equipment,B294,Jackie Robinson Park Playground,B294,Jackie Robinson Park Playground,COVID-19 Closure,POINT (-73.92781171578808 40.68021202010892),"13,516",69,2,49,52
+B,Completely Locked,04/10/2020 03:58:34 PM,Exercise Equipment,B100,Seth Low Playground/ Bealin Square,B100,Seth Low Playground/ Bealin Square,COVID-19 Closure,POINT (-73.98636238213687 40.60813843938594),"16,867",1,2,18,37
+Q,Completely Locked,04/11/2020 06:49:16 PM,Exercise Equipment,Q421,Walter Ward Playground,Q421,Walter Ward Playground,COVID-19 Closure,POINT (-73.84369011434538 40.65742268152679),"15,314",62,3,41,64
+Q,Completely Locked,04/11/2020 06:09:45 PM,Exercise Equipment,Q474,Simeone Park,Q474,Simeone Park,COVID-19 Closure,POINT (-73.85992361032712 40.740979531381065),"14,510",66,3,21,68
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B223R,Jaime Campiz Playground,B223R,Jaime Campiz Playground,Active,POINT (-73.95437736789306 40.7135425377962),"17,613",36,2,30,56
+Q,,04/09/2020 03:18:23 PM,Exercise Equipment,Q162H,Beach 30th Street Playground,Q162H,Beach 30th Street Playground,Active,POINT (-73.762489336517 40.592460653719186),"20,529",51,3,47,59
+Q,,04/11/2020 07:26:20 PM,Exercise Equipment,Q024-ZN04,Kissena Park,Q024,Kissena Park Zone 4,Active,POINT (-73.80964169426333 40.74366696799823),"14,507",22,3,3,67
+Q,Completely Locked,04/11/2020 06:21:29 PM,Exercise Equipment,Q002,Grover Cleveland Playground,Q002,Grover Cleveland Playground,COVID-19 Closure,POINT (-73.91114489160016 40.710899665887816),"15,310",54,3,30,62
+Q,Temporary Fencing,04/11/2020 07:24:40 PM,Exercise Equipment,Q220G,Hoover - Manton Playgrounds,Q220G,Hoover - Manton Playgrounds,COVID-19 Closure,POINT (-73.82123043186971 40.711472465230855),"24,670",25,3,24,65
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B052-03,Leif Ericson Park,B052,Leif Ericson Park Playground,Active,POINT (-74.01190423157917 40.630818264303834),"18,180",10,2,44,41
+B,,04/09/2020 03:15:34 PM,Exercise Equipment,B016,Maria Hernandez Park,B016,Maria Hernandez Park,Active,POINT (-73.92386340065151 40.703171443271685),"13,828",42,2,30,53
+Q,Completely Locked,04/11/2020 06:19:33 PM,Exercise Equipment,Q102-03,Juniper Valley Park,Q102,Juniper South Playground,COVID-19 Closure,POINT (-73.88290170159917 40.71840947599781),"15,309",54,3,34,62

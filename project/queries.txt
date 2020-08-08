@@ -1,0 +1,5 @@
+select id, name, primarysport, fieldnumber,editdate, status, borough from places inner join athleticfacilities on places.id = athleticfacilities.place_id where borough = "M" order by editdate limit 30;
+
+select * from places where (type = "sp" or type = "dr") and borough = "M" limit 30;
+
+select name, type, status, latitude, longitude from places where (status = "Active" and ((latitude < 40.715 and latitude > 40.700) and (longitude > -73.9 and longitude < -73.85))) order by type, latitude limit 30;

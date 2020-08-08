@@ -1,0 +1,1 @@
+Each row in each table would need have name, type, borough, editdate, latitude and longitude, status, and closure type (if applicable). On top of these attributes, there would be attributes unique to a specific facility type. These vary by facility, for example athletic facilities have a field number. 

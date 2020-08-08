@@ -1,0 +1,9 @@
+Thomas Westfall
+
+CSCI 435 Project Statement
+
+Recently, something that I have wanted to work on is to work with data concerning the Covid-19 virus within New York City. What I want to do, or, more specifically, my project statement, is to help those in New York City access information regarding Covid-19 more effectively so that they can get the information they need faster. For example, New York City residents searching some sort of assistance, such as a free meal, could use a frontend that quickly and effectively gives them the locations that could help them. 
+
+The first step I would have to take care of would be gathering the data necessary. Doing some preliminary research, I came across a few datasets from NYC Open Data that contain some valuable information which could be used. For example, the Covid-19 Free Meal Locations dataset, or the Park Closure Status Due to Covid-19 dataset. Creating an aggregate of these different datasets into a single database and then using this database to visualize the data onto a frontend would be the minimal viable product. With this database, I could then visualize various datasets for more efficient and effective access. For example, creating a map of all free meal locations, or park closures, would be better for New York City residents to get a meal quicker, rather than having them search through this dataset manually.
+
+A problem I have in mind for this would be to continuously gather this data as these data sources get updated. Perhaps periodically checking these sources and updating them into the database could be a solution, though I have no prior experience on how to do this and would have to do a bit of research. Also, I’d imagine finding a solution to this would vary by the source of the data.
